@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "בקרת עוצמת שמע בדפדפן שלך. הגדר רמת עוצמה אישית עבור כרטיסיות עם אודיו. יש לנו נפח מגבר תכונה."
+   },
+   "name": {
+      "message": "Volume Control"
+   },
+   "popup_list_tabs": {
+      "message": "כרטיסיות פעילות השמעת שמע:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "אין כרטיסיות עם אודיו עכשיו"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - בקר עוצמת הקול"
+   }
+}

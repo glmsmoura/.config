@@ -1,0 +1,6 @@
+2021/07/25-18:33:20.564 126d Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_dnhpnfgdlenaccegplpojghhmaamnnfp_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/25-18:33:20.564 126d Recovering log #3
+2021/07/25-18:33:20.674 126d Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_dnhpnfgdlenaccegplpojghhmaamnnfp_0.indexeddb.leveldb/000003.log 
+2021/07/25-18:33:20.784 126d Level-0 table #5: started
+2021/07/25-18:33:20.821 126d Level-0 table #5: 1119233 bytes OK
+2021/07/25-18:33:20.825 126d Delete type=0 #3

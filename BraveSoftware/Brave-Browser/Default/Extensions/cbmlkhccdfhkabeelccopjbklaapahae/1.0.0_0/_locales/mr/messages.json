@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "ब्Volume settings for Chrome Tabs. Control Volume booster and audio settings. Increase volume automatically in one click"
+   },
+   "name": {
+      "message": "Volume Booster - व्हॉल्यूम कंट्रोलर"
+   },
+   "popup_list_tabs": {
+      "message": "ऑडिओ वाजवून सक्रिय टॅब:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "आत्ता ऑडिओमध्ये कोणतेही टॅब नाहीत"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - व्हॉल्यूम कंट्रोलर"
+   }
+}

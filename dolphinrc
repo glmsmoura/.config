@@ -1,0 +1,42 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+Version=200
+ViewPropsTimestamp=2021,6,14,0,44,14.132
+
+[IconsMode]
+FontWeight=50
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP1 Height 1366x768=544
+eDP1 Width 1366x768=442
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACsvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAACsgAAAF0BAAADAAAAAQAAALgAAAHG/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAAHGAAAACgEAAAMAAAADAAAC/AAAALb8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAC/AAAAAoBAAADAAAB6wAAArIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP1 Height 1366x768=736
+eDP1 Width 1366x768=676
+eDP1 XPosition 1366x768=4
+eDP1 YPosition 1366x768=26
+
+[Open-with settings]
+CompletionMode=1
+History=unzip,unrar
+
+[PreviewSettings]
+Plugins=audiothumbnail,imagethumbnail,comicbookthumbnail,directorythumbnail,fontthumbnail,exrthumbnail,ebookthumbnail,svgthumbnail,cursorthumbnail,windowsimagethumbnail,windowsexethumbnail,jpegthumbnail,kraorathumbnail,opendocumentthumbnail,appimagethumbnail,djvuthumbnail
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+eDP1 Height 1366x768=440
+eDP1 Width 1366x768=589

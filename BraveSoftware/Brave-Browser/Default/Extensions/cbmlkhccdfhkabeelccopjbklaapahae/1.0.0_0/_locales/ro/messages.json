@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Controlați volumul audio în browser. Setați nivelul de volum propriu pentru filele audio."
+   },
+   "name": {
+      "message": "Volume Controller - Controller volum"
+   },
+   "popup_list_tabs": {
+      "message": "Tab-urile active care redau audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Nu există file cu audio chiar acum"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Controller volum"
+   }
+}

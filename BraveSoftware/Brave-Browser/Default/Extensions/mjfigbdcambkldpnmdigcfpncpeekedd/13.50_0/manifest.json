@@ -1,0 +1,27 @@
+{
+   "author": "AUTHOR",
+   "background": {
+      "scripts": [ "/external/jquery-3.3.1.min.js", "/external/jszip-utils.min.js", "/external/jszip.min.js", "/external/xregexp-all.js", "/external/lz-string.min.js", "/external/socket2b.js", "giram.js", "untam.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "sacarei.css" ],
+      "js": [ "/external/jquery-3.3.1.min.js", "/external/jquery-ui.min.js", "/external/xregexp-all.js", "/external/base64.js", "giram.js", "legou.js" ],
+      "matches": [ "https://*/*", "http://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Encontre os melhores preços e cupons de desconto com o Bilômetro.",
+   "differential_fingerprint": "1.cc84e958d0d18368336d51a1f67b1abd254ad098944f90c803f20e451b6f7371",
+   "icons": {
+      "128": "leve.png",
+      "16": "piso.png",
+      "48": "revi.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwe0oa27rgHoqjUuFzj9fiBRrx0FYB8pK1CKw3Wwzgd3BAWnKcwlcxdZ18ke9Xq2OWehuJReT281IB2RzQWBRPx2CbWBar/xGR+bZtPSKWixF0rZfatShkLApSBEHk7nqBDlCKDo7uNTKTv2Ro+47+hIVnO7+aNrgtBx+olalm7s2Fc0v2J7WF7GeLNy7pl574CgJdk78Si46A2V0TghVg3Fk86PfVSAgD5+vWb0+hf7hzIT6kBDR+Z3Q6ELJzDcehtrmcS0kyE2tTQcFf/2+Qdha/AUOVN9sc5yhXSPPYC/UuTpVLbT56CrMnGBQ4Uhd2IIkNNrQI6KawRN26UzvWQIDAQAB",
+   "manifest_version": 2,
+   "name": "Bilômetro",
+   "options_page": "tens.html",
+   "permissions": [ "webRequest", "https://*/*", "http://*/*", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "13.50",
+   "web_accessible_resources": [ "/external/jquery-3.3.1.min.js", "/external/sizzle.min.js", "*" ]
+}

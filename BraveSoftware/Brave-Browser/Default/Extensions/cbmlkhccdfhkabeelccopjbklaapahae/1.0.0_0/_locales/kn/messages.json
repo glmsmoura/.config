@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "ಬ್ರೌಸರ್ನಲ್ಲಿ ಆಡಿಯೊ ಪರಿಮಾಣವನ್ನು ನಿಯಂತ್ರಿಸಿ. ಆಡಿಯೋದೊಂದಿಗೆ ಟ್ಯಾಬ್ಗಳಿಗಾಗಿ ಸ್ವಂತ ಪರಿಮಾಣ ಮಟ್ಟವನ್ನು ಹೊಂದಿಸಿ."
+   },
+   "name": {
+      "message": "Volume Controller - ಸಂಪುಟ ನಿಯಂತ್ರಕ"
+   },
+   "popup_list_tabs": {
+      "message": "ಆಡಿಯೊ ಪ್ಲೇ ಮಾಡುವ ಸಕ್ರಿಯ ಟ್ಯಾಬ್ಗಳು:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "ಇದೀಗ ಆಡಿಯೊದೊಂದಿಗೆ ಯಾವುದೇ ಟ್ಯಾಬ್ಗಳಿಲ್ಲ"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - ಸಂಪುಟ ನಿಯಂತ್ರಕ"
+   }
+}

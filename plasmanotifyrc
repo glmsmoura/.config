@@ -1,0 +1,9 @@
+[Applications][brave-browser]
+Seen=true
+ShowPopups=false
+
+[Applications][org.manjaro.pamac.manager]
+Seen=true
+
+[DoNotDisturb]
+Until=2022,6,24,15,51,19.676

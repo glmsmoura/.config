@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Helitugevuse reguleerimine brauseris. Määra oma heli jaoks vahekaartide helitugevus."
+   },
+   "name": {
+      "message": "Sound Booster - Helitugevuse regulaator"
+   },
+   "popup_list_tabs": {
+      "message": "Aktiivsed vahelehed, mis mängivad heli:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Heli ei ole praegu vahelehega"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Helitugevuse regulaator"
+   }
+}

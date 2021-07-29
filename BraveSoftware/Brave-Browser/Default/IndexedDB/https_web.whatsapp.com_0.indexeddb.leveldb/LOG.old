@@ -1,0 +1,15 @@
+2021/07/28-09:32:40.603 7b3 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/28-09:32:40.604 7b3 Recovering log #76
+2021/07/28-09:32:40.617 7b3 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000076.log 
+2021/07/28-10:53:45.517 1486 Level-0 table #82: started
+2021/07/28-10:53:45.586 1486 Level-0 table #82: 1363940 bytes OK
+2021/07/28-10:53:45.593 1486 Delete type=0 #76
+2021/07/28-10:53:53.800 1486 Compacting 1@1 + 2@2 files
+2021/07/28-10:53:53.989 1486 Generated table #83@1: 39134 keys, 2242236 bytes
+2021/07/28-10:53:54.066 1486 Generated table #84@1: 62863 keys, 2278345 bytes
+2021/07/28-10:53:54.085 1486 Generated table #85@1: 980 keys, 275484 bytes
+2021/07/28-10:53:54.085 1486 Compacted 1@1 + 2@2 files => 4796065 bytes
+2021/07/28-10:53:54.090 1486 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/07/28-10:53:54.090 1486 Delete type=2 #82
+2021/07/28-10:53:54.090 1486 Delete type=2 #79
+2021/07/28-10:53:54.090 1486 Delete type=2 #78

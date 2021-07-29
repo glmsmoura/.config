@@ -1,0 +1,6 @@
+[General]
+DefaultWebShortcut=duckduckgo
+EnableWebShortcuts=true
+KeywordDelimiter=\s
+PreferredWebShortcuts=wikit,wikipedia,google,youtube,duckduckgo,yahoo
+UsePreferredWebShortcutsOnly=false

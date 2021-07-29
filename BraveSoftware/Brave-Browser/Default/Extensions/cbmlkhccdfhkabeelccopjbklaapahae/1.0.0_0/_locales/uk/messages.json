@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Контролюйте гучність звуку у браузері. Встановити індивідуальний рівень гучності для вкладок із аудіо. Функція збільшення гучності."
+   },
+   "name": {
+      "message": "Audio Volume Controller"
+   },
+   "popup_list_tabs": {
+      "message": "Активні вкладки, що відтворюють звук:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Зараз немає вкладок із звуком"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Регулятор Гучності"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Kontrollera ljudvolymen i din webbläsare. Ställ in enskild volymnivå för flikar med ljud. Vi har volymboosterfunktion."
+   },
+   "name": {
+      "message": "Volume Controller - Volymkontrollen"
+   },
+   "popup_list_tabs": {
+      "message": "Aktiva flikar som spelar ljud:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Det finns inga flikar med ljud just nu"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Volymkontrollen"
+   }
+}

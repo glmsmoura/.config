@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Контролишите јачину звука у прегледачу. Подесите сопствени ниво јачине звука са звуком."
+   },
+   "name": {
+      "message": "Volume Controller - Волуме Цонтроллер"
+   },
+   "popup_list_tabs": {
+      "message": "Активни језици који репродукују звук:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Тренутно нема табова са аудио-ом"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Волуме Цонтроллер"
+   }
+}

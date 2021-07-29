@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Kontroluj głośność dźwięku w przeglądarce. Ustaw własny poziom głośności dla kart z dźwiękiem."
+   },
+   "name": {
+      "message": "Volume Controller - Kontroler głośności"
+   },
+   "popup_list_tabs": {
+      "message": "Aktywne zakładki odtwarzające dźwięk:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "W tej chwili nie ma kart z dźwiękiem"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Kontroler głośności"
+   }
+}

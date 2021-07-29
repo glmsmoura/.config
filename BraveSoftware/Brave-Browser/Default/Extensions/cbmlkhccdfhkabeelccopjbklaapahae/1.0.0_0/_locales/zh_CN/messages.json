@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "在您的浏览器中控制音量。 音频播放时，为每个选项卡设置单独的音量级别。 通过音量增强功能让您的音频真正摇摆。"
+   },
+   "name": {
+      "message": "Audio Volume Controller"
+   },
+   "popup_list_tabs": {
+      "message": "播放音频的活动标签："
+   },
+   "popup_list_tabs_no_play": {
+      "message": "目前没有带音频的选项卡"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - 音量控制器"
+   }
+}

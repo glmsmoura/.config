@@ -1,0 +1,36 @@
+[KFileDialog Settings]
+Recent Files[$e]=org.communia.apptitle--v1.1.org.communia.apptitle.plasmoid,file:$HOME/Downloads/xkcd.comic,file:$HOME/Downloads/dilbert.comic
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP1 Height 1366x768=453
+eDP1 Width 1366x768=464
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=21
+
+[PlasmaViews][Panel 2][Horizontal1366]
+thickness=21
+
+[PlasmaViews][Panel 2][Vertical768]
+thickness=42
+
+[PlasmaViews][Panel 30][Defaults]
+thickness=22
+
+[PlasmaViews][Panel 30][Horizontal1366]
+thickness=22
+
+[PlasmaViews][Panel 33][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 33][Horizontal1366]
+thickness=36
+
+[ScreenConnectors]
+0=eDP1
+1=HDMI1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js

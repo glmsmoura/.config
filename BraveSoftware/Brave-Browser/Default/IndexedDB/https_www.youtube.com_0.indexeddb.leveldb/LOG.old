@@ -1,0 +1,47 @@
+2021/07/28-09:32:29.102 6c2 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/28-09:32:29.102 6c2 Recovering log #91
+2021/07/28-09:32:29.121 6c2 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000091.log 
+2021/07/28-09:32:29.121 6c2 Delete type=2 #90
+2021/07/28-09:32:36.573 67c Level-0 table #96: started
+2021/07/28-09:32:36.581 67c Level-0 table #96: 335771 bytes OK
+2021/07/28-09:32:36.585 67c Delete type=0 #91
+2021/07/28-09:32:36.586 67c Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00P\x00\xa3\xd1\xaewB\x00\x03\x00\x00\x00\x00\x00\x003@' @ 18895 : 1
+2021/07/28-09:32:36.586 67c Compacting 1@0 + 1@1 files
+2021/07/28-09:32:36.594 67c Generated table #97@0: 4625 keys, 61024 bytes
+2021/07/28-09:32:36.594 67c Compacted 1@0 + 1@1 files => 61024 bytes
+2021/07/28-09:32:36.596 67c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/28-09:32:36.597 67c Delete type=2 #96
+2021/07/28-09:32:36.597 67c Manual compaction at level-0 from '\x00$\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00P\x00\xa3\xd1\xaewB\x00\x03\x00\x00\x00\x00\x00\x003@' @ 18895 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/28-09:32:36.759 6c0 Level-0 table #99: started
+2021/07/28-09:32:36.762 6c0 Level-0 table #99: 3760 bytes OK
+2021/07/28-09:32:36.766 6c0 Delete type=0 #95
+2021/07/28-09:32:36.766 6c0 Delete type=2 #93
+2021/07/28-09:32:36.766 6c0 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00%\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 19068 : 1
+2021/07/28-09:32:36.766 6c0 Compacting 1@0 + 1@1 files
+2021/07/28-09:32:36.773 6c0 Generated table #100@0: 4623 keys, 59591 bytes
+2021/07/28-09:32:36.773 6c0 Compacted 1@0 + 1@1 files => 59591 bytes
+2021/07/28-09:32:36.775 6c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/28-09:32:36.775 6c0 Delete type=2 #99
+2021/07/28-09:32:36.776 6c0 Manual compaction at level-0 from '\x00%\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 19068 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/28-09:33:07.165 6c2 Level-0 table #102: started
+2021/07/28-09:33:07.171 6c2 Level-0 table #102: 119447 bytes OK
+2021/07/28-09:33:07.175 6c2 Delete type=2 #97
+2021/07/28-09:33:07.175 6c2 Delete type=0 #98
+2021/07/28-09:33:07.175 6c2 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 19544 : 1
+2021/07/28-09:33:07.175 6c2 Compacting 1@0 + 1@1 files
+2021/07/28-09:33:07.183 6c2 Generated table #103@0: 4717 keys, 65701 bytes
+2021/07/28-09:33:07.183 6c2 Compacted 1@0 + 1@1 files => 65701 bytes
+2021/07/28-09:33:07.186 6c2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/28-09:33:07.187 6c2 Delete type=2 #102
+2021/07/28-09:33:07.187 6c2 Manual compaction at level-0 from '\x00&\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 19544 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/28-09:33:08.140 6c0 Level-0 table #105: started
+2021/07/28-09:33:08.144 6c0 Level-0 table #105: 10663 bytes OK
+2021/07/28-09:33:08.149 6c0 Delete type=2 #100
+2021/07/28-09:33:08.149 6c0 Delete type=0 #101
+2021/07/28-09:33:08.150 6c0 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 20280 : 0
+2021/07/28-09:33:08.150 6c0 Compacting 1@0 + 1@1 files
+2021/07/28-09:33:08.164 6c0 Generated table #106@0: 4687 keys, 63909 bytes
+2021/07/28-09:33:08.164 6c0 Compacted 1@0 + 1@1 files => 63909 bytes
+2021/07/28-09:33:08.167 6c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/28-09:33:08.167 6c0 Delete type=2 #105
+2021/07/28-09:33:08.168 6c0 Manual compaction at level-0 from '\x00&\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 20280 : 0 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)

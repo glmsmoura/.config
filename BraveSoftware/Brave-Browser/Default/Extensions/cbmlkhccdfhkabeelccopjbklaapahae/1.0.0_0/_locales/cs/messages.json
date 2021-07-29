@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Control audio volume in your browser. Set individual volume level for tabs with audio. Extreme Volume booster and Sound Booster."
+   },
+   "name": {
+      "message": "Volume Booster - Ovladač hlasitosti"
+   },
+   "popup_list_tabs": {
+      "message": "Aktivní karty pro přehrávání zvuku:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "V současné době nejsou žádné karty se zvukem"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Ovladač hlasitosti"
+   }
+}

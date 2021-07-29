@@ -1,0 +1,26 @@
+{
+   "background": {
+      "page": "app.html"
+   },
+   "browser_action": {
+      "default_icon": "logo.png",
+      "default_title": "Dólar Hoje"
+   },
+   "content_scripts": [ {
+      "js": [ "has_extension.js" ],
+      "matches": [ "http://www.dolarhoje.com/", "http://dolarhoje.com/", "https://dolarhoje.com/" ]
+   } ],
+   "description": "Veja a cotação do Dólar através do DolarHoje.com",
+   "icons": {
+      "128": "logo.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAtrMXtD5oHjszG/9gfxYGANCT3YjUeGoI6+lRZeKWPAVM7T01ApIPW33GxZFnk0mEIqOK73bFMfaAVYkI8JQldQ/PaA61LpCrG0CADA4S0dJy1Pgmxahjo5oeSVgAzWrRwyCIUzCfWW+XZcYSYkuR4+FdH7GRbngDvS2CclF4awIDAQAB",
+   "manifest_version": 2,
+   "name": "Dólar Hoje",
+   "omnibox": {
+      "keyword": "dolarhoje"
+   },
+   "permissions": [ "http://DolarHoje.com/", "http://api.DolarHoje.com/", "https://DolarHoje.com/" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.45"
+}

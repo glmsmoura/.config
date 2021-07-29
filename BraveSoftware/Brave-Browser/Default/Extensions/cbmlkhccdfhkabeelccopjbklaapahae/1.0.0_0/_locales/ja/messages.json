@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "ブラウザのオーディオボリュームを制御します。 オーディオ再生中のタブごとに個別の音量を設定します。 ボリュームブースター機能であなたのオーディオを本当に揺るがしましょう。"
+   },
+   "name": {
+      "message": "Volume Controller - ボリュームコントローラ"
+   },
+   "popup_list_tabs": {
+      "message": "オーディオを再生するアクティブなタブ："
+   },
+   "popup_list_tabs_no_play": {
+      "message": "今は音声付きのタブはありません"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - ボリュームコントローラ"
+   }
+}

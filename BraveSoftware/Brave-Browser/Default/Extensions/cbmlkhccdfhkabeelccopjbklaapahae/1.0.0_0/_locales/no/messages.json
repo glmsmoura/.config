@@ -1,0 +1,23 @@
+{
+  "name": {
+    "message": "Volume Controller - Volumkontrolleren"
+  },
+  "short_name": {
+    "message": "Volume Controller"
+  },
+  "description": {
+    "message": "Kontroller lydvolum i nettleseren din. Angi individuelt volumnivå for faner med lyd. Vi har volum booster funksjonen."
+  },
+  "popup_list_tabs": {
+    "message": "Aktive faner som spiller lyd:"
+  },
+  "popup_list_tabs_no_play": {
+    "message": "Det er ingen faner med lyd akkurat nå"
+  },
+  "popup_volume": {
+    "message": "Volume:"
+  },
+  "title": {
+    "message": "Volume Controller - Volumkontrolleren"
+  }
+}

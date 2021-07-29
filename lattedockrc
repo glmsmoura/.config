@@ -1,0 +1,34 @@
+[DownloadDialog Settings]
+eDP1 Height 1366x768=494
+eDP1 Width 1366x768=700
+
+[KFileDialog Settings]
+Recent Files[$e]=My Layout.layout.latte,file:$HOME/.config/latte/My Layout.layout.latte
+Recent URLs[$e]=file:$HOME/.config/,file:$HOME/,file:$HOME/.config/latte/
+detailViewIconSize=16
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP1
+11=HDMI1
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+currentLayout=QTile-Floating
+downloadWindowSize=800,550
+lastNonAssignedLayout=QTile-Floating
+launchers=
+layoutsColumnWidths=117,122,66,0
+layoutsWindowSize=700,593
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2
+
+[UniversalSettings][ScreenScales]
+eDP1=0.96;0.96

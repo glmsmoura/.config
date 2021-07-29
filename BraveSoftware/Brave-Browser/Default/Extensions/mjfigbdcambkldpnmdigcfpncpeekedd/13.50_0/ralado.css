@@ -1,0 +1,59 @@
+.tdlabel {
+  width: 200px;
+}
+.tdoptions {
+  text-align: right;
+}
+fieldset legend h1 {
+  margin: 0px;
+}
+fieldset .bilometro-pila {
+  display: grid;
+  grid-template-columns: 200px auto;
+  column-gap: 10px;
+  height: 30px;
+  align-items: center;
+  margin-bottom: 5px;
+}
+fieldset .bilometro-pila div {
+  align-items: center;
+}
+fieldset .bilometro-pila.bilometro-icas .bilometro-unja {
+  display: block !important;
+}
+fieldset .bilometro-pila.bilometro-icas .bilometro-zoei {
+  display: none;
+}
+.bilometro-tau {
+  display: none !important;
+}
+select {
+  border-radius: 3px;
+  padding: 4px 6px;
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+}
+button {
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  min-width: 80px;
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+}
+button:disabled {
+  opacity: 0.5;
+}
+.bilometro-vexo {
+  color: #fff;
+  background-color: #d9534f;
+  border: 1px solid #d43f3a;
+}
+.bilometro-toma {
+  color: #fff;
+  background-color: #5cb85c;
+  border: 1px solid #4cae4c;
+}

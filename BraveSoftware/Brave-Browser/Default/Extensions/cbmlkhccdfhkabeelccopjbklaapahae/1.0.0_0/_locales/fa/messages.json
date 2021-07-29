@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Control audio volume in your browser. Set individual volume level for tabs with audio. Extreme Volume booster and Sound Booster."
+   },
+   "name": {
+      "message": "Sound Booster - کنترل کننده حجم"
+   },
+   "popup_list_tabs": {
+      "message": "زبانه های فعال پخش صوتی:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "زبانه هایی با صدا در حال حاضر وجود ندارد"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - کنترل کننده حجم"
+   }
+}

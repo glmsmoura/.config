@@ -1,0 +1,15 @@
+2021/07/28-09:32:46.036 7b3 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/28-09:32:46.036 7b3 Recovering log #4
+2021/07/28-09:32:46.037 7b3 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000004.log 
+2021/07/28-10:48:16.445 11bf Level-0 table #8: started
+2021/07/28-10:48:16.449 11bf Level-0 table #8: 6099 bytes OK
+2021/07/28-10:48:16.453 11bf Delete type=0 #4
+2021/07/28-10:48:16.453 11bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/28-10:48:16.453 11bf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 139 : 1
+2021/07/28-10:48:16.453 11bf Compacting 1@1 + 1@2 files
+2021/07/28-10:48:16.458 11bf Generated table #9@1: 36 keys, 2430 bytes
+2021/07/28-10:48:16.458 11bf Compacted 1@1 + 1@2 files => 2430 bytes
+2021/07/28-10:48:16.462 11bf compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/28-10:48:16.462 11bf Delete type=2 #5
+2021/07/28-10:48:16.462 11bf Delete type=2 #8
+2021/07/28-10:48:16.463 11bf Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 139 : 1 .. (end); will stop at (end)

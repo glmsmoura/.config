@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "A hangerő szabályozása a böngészőben. Állítsa be a saját hangerőszintet az audiofülre."
+   },
+   "name": {
+      "message": "Volume Controller - Hangerőszabályozó"
+   },
+   "popup_list_tabs": {
+      "message": "Aktív hangfalak:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Jelenleg nincsenek audiofülek"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Hangerőszabályozó"
+   }
+}

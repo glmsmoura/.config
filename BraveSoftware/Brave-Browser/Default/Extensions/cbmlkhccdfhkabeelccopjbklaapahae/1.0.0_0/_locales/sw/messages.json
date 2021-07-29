@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Dhibiti sauti ya sauti katika kivinjari. Weka kiwango chako cha sauti kwa tabo na sauti."
+   },
+   "name": {
+      "message": "Volume Controller - Mdhibiti wa Volume"
+   },
+   "popup_list_tabs": {
+      "message": "Tabo za kazi za kucheza sauti:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Hakuna tabo na sauti sasa hivi"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Mdhibiti wa Volume"
+   }
+}

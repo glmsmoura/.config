@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Hallitse äänenvoimakkuutta selaimessa. Aseta äänenvoimakkuudelle oma äänenvoimakkuustaso."
+   },
+   "name": {
+      "message": "Sound Control - Äänenvoimakkuuden säätö"
+   },
+   "popup_list_tabs": {
+      "message": "Aktiiviset välilehdet äänittävät ääntä:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Tällä hetkellä ei ole ääniraitoja"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Äänenvoimakkuuden säätö"
+   }
+}

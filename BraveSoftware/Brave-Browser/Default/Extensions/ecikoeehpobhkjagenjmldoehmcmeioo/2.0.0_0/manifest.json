@@ -1,0 +1,42 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/icon-web-store.png",
+         "19": "images/icon-web-store.png",
+         "32": "images/icon-web-store.png",
+         "38": "images/icon-web-store.png"
+      },
+      "default_popup": "popup/popup.html",
+      "default_title": "Méliuz"
+   },
+   "content_scripts": [ {
+      "css": [ "content-scripts/fonts-loader/loader.css" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "content-scripts/reminder.css" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "description": "Ganhe cashback comprando em milhares de lojas online.",
+   "differential_fingerprint": "1.f854f2f4114af610d4803834f9f9434468f0167e5be69fdef2eaaabbc021a1b7",
+   "icons": {
+      "128": "images/icon-web-store.png",
+      "16": "images/icon-default-16.png",
+      "19": "images/icon-default-19.png",
+      "32": "images/icon-default-32.png",
+      "38": "images/icon-default-38.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg7I+UJIDMcbG0PLe/1i8QCDAn/cb7A4tycHlCIk7WrQmbuOLFvgA2BKbmCIJ0ZSFH9USA+xUTAtE1dWUVjuDjlJx5tDCkgl/MvxnSvdV2lJN1PXguWsGmk9iL4ZiRZio7lhOqsy3y1+jDX5QWj4MxbGYHfRMN+uBmaWacLOxFeFSJUZALmePNw5eDBqULiqsp7BINK+6NwI69rgbqhXvvHS/frACu39Meih3RpEi7pEleapetQZgRMS/ia114mSqqIrWrbB/EUtoJjoKKJCmPfc+s5tV47bO0I9V4U0nIxO995PoNloDVTxYA1aieFsZAUZ8Sr8Fb9tCyl1uQW3mHwIDAQAB",
+   "manifest_version": 2,
+   "name": "Escorrega O Preço",
+   "permissions": [ "alarms", "cookies", "http://*/*", "https://*/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0",
+   "web_accessible_resources": [ "images/*", "content-scripts/*", "fonts/*" ]
+}

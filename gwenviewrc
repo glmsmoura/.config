@@ -1,0 +1,21 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABU4AAAKyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1 Height 1366x768=736
+eDP1 Width 1366x768=1358
+eDP1 XPosition 1366x768=686
+eDP1 YPosition 1366x768=26
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/images/image1.png
+Name1[$e]=image1.png
+
+[SideBar]
+SideBarSplitterSizes=242,1113

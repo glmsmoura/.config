@@ -1,0 +1,7 @@
+2021/07/28-19:41:08.152 5bb Recovering log #3
+2021/07/28-19:41:08.436 5bb Level-0 table #5: started
+2021/07/28-19:41:08.542 5bb Level-0 table #5: 2784458 bytes OK
+2021/07/28-19:41:08.552 5bb Recovering log #7
+2021/07/28-19:41:08.568 5bb Delete type=0 #7
+2021/07/28-19:41:08.568 5bb Delete type=3 #2
+2021/07/28-19:41:08.568 5bb Delete type=0 #3

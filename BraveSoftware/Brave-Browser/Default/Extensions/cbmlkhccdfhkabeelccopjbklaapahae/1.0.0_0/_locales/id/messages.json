@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Kontrol volume audio di browser. Setel tingkat volume sendiri untuk tab dengan audio."
+   },
+   "name": {
+      "message": "Volume Controller - Pengontrol Volume"
+   },
+   "popup_list_tabs": {
+      "message": "Tab aktif memutar audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Tidak ada tab dengan audio sekarang"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Pengontrol Volume"
+   }
+}

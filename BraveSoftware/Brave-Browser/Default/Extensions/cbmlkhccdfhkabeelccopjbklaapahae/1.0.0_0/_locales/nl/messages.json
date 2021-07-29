@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Regel het geluidsvolume in de browser. Stel een eigen volume in voor tabbladen met audio."
+   },
+   "name": {
+      "message": "Volume Controller - Volumeregelaar"
+   },
+   "popup_list_tabs": {
+      "message": "Actieve tabbladen die audio afspelen:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Er zijn momenteel geen tabbladen met audio"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Volumeregelaar"
+   }
+}

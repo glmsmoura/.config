@@ -1,0 +1,13 @@
+[$Version]
+update_info=kxkb_variants.upd:split-variants
+
+[Layout]
+DisplayNames=
+LayoutList=br
+LayoutLoopCount=-1
+Model=acer_laptop
+Options=altwin:meta_win
+ResetOldOptions=true
+SwitchMode=Global
+Use=true
+VariantList=nodeadkeys

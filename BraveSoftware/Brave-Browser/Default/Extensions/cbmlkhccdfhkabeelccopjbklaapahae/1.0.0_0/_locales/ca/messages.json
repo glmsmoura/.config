@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Controlar el volum d'àudio al navegador. Establiu un nivell de volum propi per a les pestanyes amb àudio. Tenim volum de reforç."
+   },
+   "name": {
+      "message": "Volume Controller - Controlador de volum"
+   },
+   "popup_list_tabs": {
+      "message": "Pestanyes actives que reprodueixen àudio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Ara mateix no hi ha fitxes amb àudio"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Controlador de volum"
+   }
+}

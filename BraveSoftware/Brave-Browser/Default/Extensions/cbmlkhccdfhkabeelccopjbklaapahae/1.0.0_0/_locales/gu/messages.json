@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "બ્રાઉઝરમાં ઑડિઓ વૉલ્યૂમ નિયંત્રિત કરો. ઑડિઓ સાથે ટેબ્સ માટે પોતાના વોલ્યુમ સ્તરને સેટ કરો"
+   },
+   "name": {
+      "message": "Volume Control"
+   },
+   "popup_list_tabs": {
+      "message": "ઑડિઓ વગાડવા સક્રિય ટૅબ્સ:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "હમણાં ઑડિઓ સાથે કોઈ ટેબ્સ નથી"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - વોલ્યુમ કંટ્રોલર"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Valdykite garso garsumą naršyklėje. Nustatykite savo garso lygį skirtukams."
+   },
+   "name": {
+      "message": "Volume Controller - Regolatore di volume"
+   },
+   "popup_list_tabs": {
+      "message": "Schede attive che riproducono audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Non ci sono schede con audio adesso"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Regolatore di volume"
+   }
+}

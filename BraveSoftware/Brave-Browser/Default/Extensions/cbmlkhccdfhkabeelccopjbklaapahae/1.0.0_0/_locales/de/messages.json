@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Steuern Sie die Lautstärke im Browser. Legen Sie die Lautstärke für Registerkarten mit Audio fest. Wir haben Volumenverstärker."
+   },
+   "name": {
+      "message": "Volume Controller - Lautstärkeregler"
+   },
+   "popup_list_tabs": {
+      "message": "Aktive Tabs zum Abspielen von Audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Im Moment gibt es keine Tabs mit Audio"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Lautstärkeregler"
+   }
+}

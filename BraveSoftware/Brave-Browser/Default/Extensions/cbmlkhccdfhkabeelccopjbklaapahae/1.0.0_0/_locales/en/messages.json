@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Control audio volume in your browser. Set individual volume level for tabs with audio. Get your audio rocking by our volume booster."
+   },
+   "name": {
+      "message": "Volume Controller"
+   },
+   "popup_list_tabs": {
+      "message": "Active tabs playing audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "There are no tabs with audio right now"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller"
+   }
+}

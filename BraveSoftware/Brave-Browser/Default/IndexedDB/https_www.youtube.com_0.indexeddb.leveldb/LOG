@@ -1,0 +1,25 @@
+2021/07/28-19:41:15.320 5f7 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/28-19:41:15.321 5f7 Recovering log #104
+2021/07/28-19:41:15.325 5f7 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000104.log 
+2021/07/28-19:41:15.325 5f7 Delete type=2 #103
+2021/07/28-19:41:24.495 5f7 Level-0 table #109: started
+2021/07/28-19:41:24.503 5f7 Level-0 table #109: 199812 bytes OK
+2021/07/28-19:41:24.508 5f7 Delete type=0 #104
+2021/07/28-19:41:24.508 5f7 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00 \x90x\xf4\xaewB\x00\x03\x00\x00\x00\x00\x00\x004@' @ 21932 : 1
+2021/07/28-19:41:24.508 5f7 Compacting 1@0 + 1@1 files
+2021/07/28-19:41:24.519 5f7 Generated table #110@0: 4941 keys, 57336 bytes
+2021/07/28-19:41:24.519 5f7 Compacted 1@0 + 1@1 files => 57336 bytes
+2021/07/28-19:41:24.522 5f7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/28-19:41:24.523 5f7 Delete type=2 #109
+2021/07/28-19:41:24.523 5f7 Manual compaction at level-0 from '\x00(\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00 \x90x\xf4\xaewB\x00\x03\x00\x00\x00\x00\x00\x004@' @ 21932 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/28-19:41:25.137 58a Level-0 table #112: started
+2021/07/28-19:41:25.140 58a Level-0 table #112: 913 bytes OK
+2021/07/28-19:41:25.144 58a Delete type=0 #108
+2021/07/28-19:41:25.144 58a Delete type=2 #106
+2021/07/28-19:41:25.145 58a Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at '\x00'\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 22264 : 0
+2021/07/28-19:41:25.145 58a Compacting 1@0 + 1@1 files
+2021/07/28-19:41:25.160 58a Generated table #113@0: 4913 keys, 55590 bytes
+2021/07/28-19:41:25.160 58a Compacted 1@0 + 1@1 files => 55590 bytes
+2021/07/28-19:41:25.163 58a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/28-19:41:25.163 58a Delete type=2 #112
+2021/07/28-19:41:25.164 58a Manual compaction at level-0 from '\x00'\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 22264 : 0 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)

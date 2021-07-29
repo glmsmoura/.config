@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Volume settings for Chrome Tabs. Control Volume booster and audio settings. Increase volume automatically in one click"
+   },
+   "name": {
+      "message": "Audio Equalizer"
+   },
+   "popup_list_tabs": {
+      "message": "ஆடியோவை இயக்குகின்ற செயலில் உள்ள தாவல்கள்:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "இப்போது ஆடியோவுடன் எந்த தாவல்களும் இல்லை"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - தொகுதி கட்டுப்படுத்தி"
+   }
+}

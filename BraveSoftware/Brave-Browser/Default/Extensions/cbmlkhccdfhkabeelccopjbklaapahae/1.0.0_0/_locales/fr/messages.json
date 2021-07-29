@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Contrôlez le volume audio dans le navigateur. Définissez votre propre niveau de volume pour les onglets avec audio."
+   },
+   "name": {
+      "message": "Volume Controller - Contrôleur de volume"
+   },
+   "popup_list_tabs": {
+      "message": "Onglets actifs en lecture audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Il n'y a pas d'onglets avec audio en ce moment"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Contrôleur de volume"
+   }
+}

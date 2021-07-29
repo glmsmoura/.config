@@ -1,0 +1,9 @@
+2021/07/28-19:41:16.702 589 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/28-19:41:16.703 589 Recovering log #7
+2021/07/28-19:41:16.706 589 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000007.log 
+2021/07/28-19:44:35.154 6b0 Compacting 1@1 + 1@2 files
+2021/07/28-19:44:35.159 6b0 Generated table #10@1: 78 keys, 79592 bytes
+2021/07/28-19:44:35.159 6b0 Compacted 1@1 + 1@2 files => 79592 bytes
+2021/07/28-19:44:35.162 6b0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/28-19:44:35.162 6b0 Delete type=2 #5
+2021/07/28-19:44:35.162 6b0 Delete type=2 #8

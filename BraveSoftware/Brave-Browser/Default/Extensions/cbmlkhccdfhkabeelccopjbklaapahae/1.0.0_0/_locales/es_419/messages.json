@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Controle el volumen de audio en el navegador. Establezca su propio nivel de volumen para pestañas con audio."
+   },
+   "name": {
+      "message": "Volume Controller - Controlador de volumen"
+   },
+   "popup_list_tabs": {
+      "message": "Pestañas activas reproduciendo audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "No hay pestañas con audio en este momento"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Controlador de volumen"
+   }
+}

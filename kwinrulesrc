@@ -1,0 +1,20 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+opacityactive=70
+opacityactiverule=2
+opacityinactive=70
+opacityinactiverule=2
+type=2
+typerule=2
+wmclassmatch=1
+
+[2]
+Description=0x0 Kronhkite
+minsize=1,1
+minsizerule=2
+types=1
+
+[General]
+count=2

@@ -1,0 +1,33 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/icon-16.png",
+         "32": "img/icon-32.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Toby"
+   },
+   "content_security_policy": "default-src 'self'; frame-src 'self' https://player.vimeo.com https://gettoby.typeform.com; script-src 'self' https://player.vimeo.com; object-src 'self'; connect-src https://api.gettoby.com https://logs.gettoby.com wss://api.gettoby.com/ws https://api.mixpanel.com http://api.mixpanel.com https://api.amplitude.com http://api.amplitude.com https://*.nr-data.net https://app.getsentry.com; style-src * https://fonts.googleapis.com 'unsafe-inline' 'self'; font-src 'self' https://fonts.gstatic.com; img-src * https://logs.gettoby.com data:;",
+   "description": "Same as Toby, but not on the new tab. Organize your browser tabs and access them quickly anywhere.",
+   "differential_fingerprint": "1.278e44d74d9f2cfac897f360dfc87e9912692ee79780f0b529d0e4714a8a934f",
+   "externally_connectable": {
+
+   },
+   "icons": {
+      "128": "img/icon-128.png",
+      "16": "img/icon-16.png",
+      "48": "img/icon-48.png",
+      "96": "img/icon-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArUeo+Tkw0gBCyqpKebcyquYRwBb4k7QnJllPFmHSqXqhlSCTVhxSPW4vv1Rvp/7Z9PaNIVk+IkWIDAzlUz4LaHu1jOLrMmawyGThesMhIpJOILPKf5jBFB4BzehvXLmbNt+qILIDzwlcbHsDmPBFnKgnqUGeOVhOdbRhUmlwCMM2L2ssQDogiEkjXHv6VBv2C90fGcGBZeHo2JMdowRlMEEKNHRtJtGV7+sEXmh7ySmO5KT63EryeCbaexqeWgIwlKpvQbUMlRhKUNaKId1ZH2tXgZcgf58jRKexSm/iryTiBbZEkkD/Xk4bfmIlXSgeWMXZqmIJUpbvq1qP3jD/ewIDAQAB",
+   "manifest_version": 2,
+   "name": "Toby Mini",
+   "permissions": [ "contextMenus", "unlimitedStorage", "storage", "tabs", "https://*.gettoby.com/" ],
+   "short_name": "Toby Mini",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.7.4",
+   "web_accessible_resources": [ "inject.html", "img/*" ]
+}

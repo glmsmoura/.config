@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Ovládajte hlasitosť zvuku v prehliadači. Nastavte vlastnú úroveň hlasitosti pre karty so zvukom."
+   },
+   "name": {
+      "message": "Volume Controller - Ovládač hlasitosti"
+   },
+   "popup_list_tabs": {
+      "message": "Aktívne karty prehrávané zvukom:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "V súčasnosti nie sú žiadne karty so zvukom"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Ovládač hlasitosti"
+   }
+}

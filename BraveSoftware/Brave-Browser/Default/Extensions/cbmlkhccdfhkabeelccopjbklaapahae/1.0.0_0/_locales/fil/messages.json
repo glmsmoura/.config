@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Volume settings for Chrome Tabs. Control Volume booster and audio settings. Increase volume automatically in one click"
+   },
+   "name": {
+      "message": "Sound Control - Controller ng Dami"
+   },
+   "popup_list_tabs": {
+      "message": "Mga aktibong tab na nagpe-play ng audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Walang mga tab na may audio ngayon"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Controller ng Dami"
+   }
+}

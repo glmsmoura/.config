@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Kontrola glasnoće zvuka u pregledniku. Postavite vlastitu razinu glasnoće za kartice sa zvukom."
+   },
+   "name": {
+      "message": "Volume Controller - Regulator glasnoće"
+   },
+   "popup_list_tabs": {
+      "message": "Aktivne kartice za reprodukciju zvuka:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Trenutačno nema zvučnih kartica"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Regulator glasnoće"
+   }
+}

@@ -1,0 +1,6 @@
+2021/07/27-20:32:12.815 278d Creating DB /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb since it was missing.
+2021/07/27-20:32:12.823 278d Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/27-20:32:17.766 2453 Level-0 table #5: started
+2021/07/27-20:32:17.768 2453 Level-0 table #5: 1314 bytes OK
+2021/07/27-20:32:17.770 2453 Delete type=0 #3
+2021/07/27-20:32:17.771 2453 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

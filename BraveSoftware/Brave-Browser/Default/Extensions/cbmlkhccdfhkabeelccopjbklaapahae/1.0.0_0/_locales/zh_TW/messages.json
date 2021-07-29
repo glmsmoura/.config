@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "在您的瀏覽器中控制音量。 音頻播放時，為每個選項卡設置單獨的音量級別。 通過音量增強功能讓您的音頻真正搖擺。"
+   },
+   "name": {
+      "message": "Volume Settings - Set the Volume"
+   },
+   "popup_list_tabs": {
+      "message": "播放音頻的活動標籤："
+   },
+   "popup_list_tabs_no_play": {
+      "message": "目前沒有帶音頻的選項卡"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - 音量控制器"
+   }
+}

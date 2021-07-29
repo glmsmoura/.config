@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/etc/X11/xinit/xinitrc.d'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_4='/etc'
+let g:netrw_dirhist_3='/etc/X11'
+let g:netrw_dirhist_2='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_1='/etc/X11'
+let g:netrw_dirhist_0='/usr/share/kbd/keymaps'
+let g:netrw_dirhist_9='/usr/share/kbd/keymaps/amiga'
+let g:netrw_dirhist_8='/usr/share/kbd/keymaps'
+let g:netrw_dirhist_7='/sys/class/backlight/intel_backlight'

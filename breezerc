@@ -1,0 +1,17 @@
+[Common]
+ShadowColor=85,255,255
+ShadowSize=ShadowNone
+
+[Style]
+MenuOpacity=91
+
+[Windeco]
+DrawBorderOnMaximizedWindows=true
+
+[Windeco Exception 0]
+BorderSize=2
+Enabled=true
+ExceptionPattern=.*
+ExceptionType=0
+HideTitleBar=true
+Mask=16

@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Pārbaudiet audio apjomu pārlūkprogrammā. Iestatiet savu skaļuma līmeni cilnēm ar audio."
+   },
+   "name": {
+      "message": "Volume Controller - Skaļuma regulators"
+   },
+   "popup_list_tabs": {
+      "message": "Aktīvās cilnes, kas atskaņo audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Pašlaik nav cilnes ar skaņu"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Skaļuma regulators"
+   }
+}

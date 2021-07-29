@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Control audio volume in your browser. Set individual volume level for tabs with audio. Extreme Volume booster and Sound Booster."
+   },
+   "name": {
+      "message": "Volume Booster"
+   },
+   "popup_list_tabs": {
+      "message": "ኦዲዮ የሚያጫኑ ትሮች:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "አሁን ኦዲዮ ያላቸው ትሮች የሉም"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - የድምጽ መቆጣጠሪያ"
+   }
+}

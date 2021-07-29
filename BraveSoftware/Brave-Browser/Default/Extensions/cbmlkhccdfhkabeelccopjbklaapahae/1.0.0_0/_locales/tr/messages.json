@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Tarayıcıda ses seviyesini kontrol et. Sesli sekmeler için kendi ses düzeyini ayarlayın."
+   },
+   "name": {
+      "message": "Volume Controller - Ses denetleyicisi"
+   },
+   "popup_list_tabs": {
+      "message": "Ses oynatılan aktif sekmeler:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Şu anda sesli sekmeler yok"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Ses denetleyicisi"
+   }
+}

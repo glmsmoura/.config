@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "ब्राउज़र में ऑडियो वॉल्यूम नियंत्रित करें। ऑडियो के साथ टैब के लिए अपने वॉल्यूम स्तर सेट करें।"
+   },
+   "name": {
+      "message": "Volume Controller - वॉल्यूम नियंत्रक"
+   },
+   "popup_list_tabs": {
+      "message": "सक्रिय टैब ऑडियो बजाना:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "अभी ऑडियो के साथ कोई टैब नहीं हैं"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - वॉल्यूम नियंत्रक"
+   }
+}

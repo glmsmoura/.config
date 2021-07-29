@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Kiểm soát âm lượng trong trình duyệt của bạn. Đặt mức âm lượng riêng cho các tab có âm thanh. Chúng tôi có tính năng tăng âm lượng."
+   },
+   "name": {
+      "message": "Volume Settings - Set the Volume"
+   },
+   "popup_list_tabs": {
+      "message": "Tab đang hoạt động phát âm thanh:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Hiện không có tab nào có âm thanh"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Bộ điều khiển âm lượng"
+   }
+}

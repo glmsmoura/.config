@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Контролируйте громкость звука в браузере. Установите индивидуальный уровень громкости для вкладок со звуком. Есть функция увеличения громкости."
+   },
+   "name": {
+      "message": "Volume Controller - Регулятор громкости"
+   },
+   "popup_list_tabs": {
+      "message": "Активные вкладки с активным аудио:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Сейчас нет активных вкладок с аудио"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Регулятор громкости"
+   }
+}

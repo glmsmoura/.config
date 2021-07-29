@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Nadzirajte glasnost zvoka v brskalniku. Nastavite posamezno glasnost za zavihke z zvokom. Imamo funkcijo povečanja prostornine."
+   },
+   "name": {
+      "message": "Volume Controller - Regulator glasnosti"
+   },
+   "popup_list_tabs": {
+      "message": "Aktivni zavihki predvajanja zvoka:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Trenutno ni tabs z zvokom"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Regulator glasnosti"
+   }
+}

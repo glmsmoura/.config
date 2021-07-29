@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Control audio volume in your browser. Set individual volume level for tabs with audio. Extreme Volume booster and Sound Booster."
+   },
+   "name": {
+      "message": "Volume Booster - Регулатор на силата на звука"
+   },
+   "popup_list_tabs": {
+      "message": "Активни раздели, които възпроизвеждат звук"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "В момента няма раздели със звук"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Controller"
+   },
+   "title": {
+      "message": "Volume Controller - Регулатор на силата на звука"
+   }
+}
