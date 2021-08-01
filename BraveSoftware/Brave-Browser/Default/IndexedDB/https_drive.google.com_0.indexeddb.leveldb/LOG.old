@@ -1,6 +1,0 @@
-2021/07/29-14:09:52.023 99c Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/07/29-14:09:52.023 99c Recovering log #7
-2021/07/29-14:09:52.039 99c Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000007.log 
-2021/07/29-14:10:11.570 99c Level-0 table #13: started
-2021/07/29-14:10:11.593 99c Level-0 table #13: 3944109 bytes OK
-2021/07/29-14:10:11.597 99c Delete type=0 #7
