@@ -93,7 +93,7 @@ immutability=1
 plugin=org.kde.plasma.systemmonitor
 
 [Containments][52][Applets][135][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][52][Applets][135][Configuration][Appearance]
 chartFace=org.kde.ksysguard.horizontalbars
@@ -139,7 +139,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][52][Applets][142][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][52][Applets][143]
 immutability=1
@@ -266,7 +266,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][52][Applets][250][Configuration]
-PreloadWeight=13
+PreloadWeight=83
 
 [Containments][52][Applets][251]
 immutability=1
@@ -287,14 +287,14 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][52][Applets][252][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][52][Applets][253]
 immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][52][Applets][253][Configuration]
-PreloadWeight=0
+PreloadWeight=10
 
 [Containments][52][Applets][253][Configuration][ConfigDialog]
 DialogHeight=719
@@ -377,7 +377,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][52][Applets][82][Configuration]
-PreloadWeight=0
+PreloadWeight=10
 SystrayContainmentId=83
 
 [Containments][52][Applets][99]
@@ -416,7 +416,6 @@ hideFloatingGapForMaximized=true
 iconSize=20
 inConfigureAppletsMode=true
 panelSize=5
-panelTransparency=50
 screenEdgeMargin=8
 shadowOpacity=20
 shadowsUpgraded=true
@@ -453,6 +452,10 @@ plugin=org.kde.plasma.keyboardlayout
 
 [Containments][83][Applets][243][Configuration]
 PreloadWeight=0
+
+[Containments][83][Applets][243][Configuration][ConfigDialog]
+DialogHeight=736
+DialogWidth=1358
 
 [Containments][83][Applets][244]
 immutability=1
@@ -504,7 +507,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][83][Applets][95][Configuration]
-PreloadWeight=0
+PreloadWeight=10
 
 [Containments][83][Applets][96]
 immutability=1
@@ -514,12 +517,12 @@ plugin=org.kde.kscreen
 PreloadWeight=0
 
 [Containments][83][ConfigDialog]
-DialogHeight=719
-DialogWidth=1324
+DialogHeight=736
+DialogWidth=675
 
 [Containments][83][General]
 extraItems=org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,org.kde.kscreen,org.kde.plasma.keyboardlayout,org.kde.plasma.vault
-hiddenItems=touchpad-indicator,org.kde.kscreen,KDE Daemon,Touchpad-Indicator,org.kde.kdeconnect,Your system is up-to-date,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller_plus,org.kde.plasma.notifications,org.kde.plasma.battery
+hiddenItems=touchpad-indicator,org.kde.kscreen,KDE Daemon,Touchpad-Indicator,org.kde.kdeconnect,Your system is up-to-date,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.mediacontroller_plus,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement
 knownItems=org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.keyboardindicator,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.vault
 
 [LayoutSettings]

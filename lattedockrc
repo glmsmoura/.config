@@ -1,6 +1,16 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAA1gAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+eDP1 Height 1366x768=510
+eDP1 Width 1366x768=595
+
 [DownloadDialog Settings]
 eDP1 Height 1366x768=494
 eDP1 Width 1366x768=700
+
+[General]
+Number of Actions=0
 
 [KFileDialog Settings]
 Recent Files[$e]=My Layout.layout.latte,file:$HOME/.config/latte/My Layout.layout.latte

@@ -1,3 +1,6 @@
-2021/07/28-09:32:23.969 686 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/07/28-09:32:23.971 686 Recovering log #16
-2021/07/28-09:32:23.975 686 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000016.log 
+2021/07/31-21:57:35.724 655 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/07/31-21:57:35.725 655 Recovering log #23
+2021/07/31-21:57:35.728 655 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000023.log 
+2021/07/31-22:59:42.775 23e2 Level-0 table #27: started
+2021/07/31-22:59:42.783 23e2 Level-0 table #27: 60372 bytes OK
+2021/07/31-22:59:42.787 23e2 Delete type=0 #23

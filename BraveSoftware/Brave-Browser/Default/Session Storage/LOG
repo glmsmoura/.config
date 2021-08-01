@@ -1,6 +1,6 @@
-2021/07/28-19:41:07.976 5 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2021/07/28-19:41:07.977 5 Recovering log #49
-2021/07/28-19:41:07.978 5 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000049.log 
-2021/07/28-20:34:55.668 5 Level-0 table #52: started
-2021/07/28-20:34:55.674 5 Level-0 table #52: 16532 bytes OK
-2021/07/28-20:34:55.680 5 Delete type=0 #49
+2021/07/31-23:54:29.924 4 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/07/31-23:54:29.925 4 Recovering log #97
+2021/07/31-23:54:29.926 4 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000097.log 
+2021/07/31-23:55:51.102 3 Level-0 table #102: started
+2021/07/31-23:55:51.110 3 Level-0 table #102: 16718 bytes OK
+2021/07/31-23:55:51.117 3 Delete type=0 #97

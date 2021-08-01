@@ -1,21 +1,15 @@
-2021/07/28-19:41:04.818 3 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2021/07/28-19:41:04.821 3 Recovering log #346
-2021/07/28-19:41:04.823 3 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000346.log 
-2021/07/28-19:41:15.599 3 Level-0 table #350: started
-2021/07/28-19:41:15.603 3 Level-0 table #350: 129467 bytes OK
-2021/07/28-19:41:15.608 3 Delete type=0 #346
-2021/07/28-19:42:09.251 5 Level-0 table #352: started
-2021/07/28-19:42:09.260 5 Level-0 table #352: 127923 bytes OK
-2021/07/28-19:42:09.267 5 Delete type=0 #349
-2021/07/28-19:42:50.497 5 Level-0 table #354: started
-2021/07/28-19:42:50.506 5 Level-0 table #354: 86582 bytes OK
-2021/07/28-19:42:50.514 5 Delete type=0 #351
-2021/07/28-19:42:50.515 5 Compacting 4@0 + 1@1 files
-2021/07/28-19:42:50.560 5 Generated table #355@0: 683 keys, 868534 bytes
-2021/07/28-19:42:50.560 5 Compacted 4@0 + 1@1 files => 868534 bytes
-2021/07/28-19:42:50.564 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/07/28-19:42:50.567 5 Delete type=2 #347
-2021/07/28-19:42:50.567 5 Delete type=2 #352
-2021/07/28-19:42:50.567 5 Delete type=2 #350
-2021/07/28-19:42:50.567 5 Delete type=2 #345
-2021/07/28-19:42:50.568 5 Delete type=2 #354
+2021/07/31-23:54:22.309 3 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/31-23:54:22.310 3 Recovering log #470
+2021/07/31-23:54:22.311 3 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000470.log 
+2021/07/31-23:54:37.269 3 Level-0 table #474: started
+2021/07/31-23:54:37.275 3 Level-0 table #474: 140898 bytes OK
+2021/07/31-23:54:37.282 3 Delete type=0 #470
+2021/07/31-23:54:37.283 3 Compacting 4@0 + 1@1 files
+2021/07/31-23:54:37.322 3 Generated table #475@0: 850 keys, 982580 bytes
+2021/07/31-23:54:37.322 3 Compacted 4@0 + 1@1 files => 982580 bytes
+2021/07/31-23:54:37.326 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/31-23:54:37.328 3 Delete type=2 #469
+2021/07/31-23:54:37.329 3 Delete type=2 #467
+2021/07/31-23:54:37.329 3 Delete type=2 #471
+2021/07/31-23:54:37.329 3 Delete type=2 #474
+2021/07/31-23:54:37.329 3 Delete type=2 #465

@@ -1,8 +1,18 @@
-2021/07/28-09:32:28.140 3 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2021/07/28-09:32:28.142 3 Recovering log #46
-2021/07/28-09:32:28.143 3 Level-0 table #49: started
-2021/07/28-09:32:28.147 3 Level-0 table #49: 17017 bytes OK
-2021/07/28-09:32:28.147 3 Recovering log #49
-2021/07/28-09:32:28.149 3 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000049.log 
-2021/07/28-09:32:28.156 3 Delete type=0 #46
-2021/07/28-09:32:28.156 3 Delete type=2 #50
+2021/07/31-21:57:42.143 3 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/07/31-21:57:42.145 3 Recovering log #92
+2021/07/31-21:57:42.146 3 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000092.log 
+2021/07/31-21:58:11.350 3 Level-0 table #96: started
+2021/07/31-21:58:11.353 3 Level-0 table #96: 19707 bytes OK
+2021/07/31-21:58:11.357 3 Delete type=0 #92
+2021/07/31-22:54:33.436 f Level-0 table #98: started
+2021/07/31-22:54:33.440 f Level-0 table #98: 15958 bytes OK
+2021/07/31-22:54:33.446 f Delete type=0 #95
+2021/07/31-22:54:33.447 f Compacting 4@0 + 1@1 files
+2021/07/31-22:54:33.453 f Generated table #99@0: 1946 keys, 60676 bytes
+2021/07/31-22:54:33.453 f Compacted 4@0 + 1@1 files => 60676 bytes
+2021/07/31-22:54:33.457 f compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/31-22:54:33.458 f Delete type=2 #98
+2021/07/31-22:54:33.458 f Delete type=2 #88
+2021/07/31-22:54:33.458 f Delete type=2 #96
+2021/07/31-22:54:33.459 f Delete type=2 #93
+2021/07/31-22:54:33.459 f Delete type=2 #90

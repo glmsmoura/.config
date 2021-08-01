@@ -1,0 +1,5 @@
+[General]
+HotspotName=gabri-hotspot
+HotspotPassword=
+ManageVirtualConnections=false
+UnlockModemOnDetection=true

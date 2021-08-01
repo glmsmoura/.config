@@ -1,18 +1,27 @@
-2021/07/28-09:32:23.996 3 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2021/07/28-09:32:23.998 3 Recovering log #340
-2021/07/28-09:32:23.999 3 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000340.log 
-2021/07/28-09:32:34.699 4 Level-0 table #344: started
-2021/07/28-09:32:34.703 4 Level-0 table #344: 127953 bytes OK
-2021/07/28-09:32:34.708 4 Delete type=0 #340
-2021/07/28-09:32:34.708 4 Compacting 4@0 + 1@1 files
-2021/07/28-09:32:34.732 4 Generated table #345@0: 669 keys, 869348 bytes
-2021/07/28-09:32:34.732 4 Compacted 4@0 + 1@1 files => 869348 bytes
-2021/07/28-09:32:34.735 4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/07/28-09:32:34.736 4 Delete type=2 #337
-2021/07/28-09:32:34.737 4 Delete type=2 #341
-2021/07/28-09:32:34.737 4 Delete type=2 #344
-2021/07/28-09:32:34.737 4 Delete type=2 #335
-2021/07/28-09:32:34.737 4 Delete type=2 #339
-2021/07/28-10:35:03.127 e Level-0 table #347: started
-2021/07/28-10:35:03.164 e Level-0 table #347: 138753 bytes OK
-2021/07/28-10:35:03.170 e Delete type=0 #343
+2021/07/31-21:57:35.752 3 Reusing MANIFEST /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/31-21:57:35.756 3 Recovering log #458
+2021/07/31-21:57:35.757 3 Reusing old log /home/gabri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000458.log 
+2021/07/31-21:57:49.626 5 Level-0 table #462: started
+2021/07/31-21:57:49.632 5 Level-0 table #462: 153903 bytes OK
+2021/07/31-21:57:49.635 5 Delete type=0 #458
+2021/07/31-21:58:43.114 5 Level-0 table #464: started
+2021/07/31-21:58:43.120 5 Level-0 table #464: 100727 bytes OK
+2021/07/31-21:58:43.124 5 Delete type=0 #461
+2021/07/31-21:58:43.124 5 Compacting 4@0 + 1@1 files
+2021/07/31-21:58:43.143 5 Generated table #465@0: 854 keys, 983086 bytes
+2021/07/31-21:58:43.143 5 Compacted 4@0 + 1@1 files => 983086 bytes
+2021/07/31-21:58:43.146 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/31-21:58:43.147 5 Delete type=2 #459
+2021/07/31-21:58:43.147 5 Delete type=2 #457
+2021/07/31-21:58:43.147 5 Delete type=2 #455
+2021/07/31-21:58:43.147 5 Delete type=2 #464
+2021/07/31-21:58:43.147 5 Delete type=2 #462
+2021/07/31-22:51:44.987 f Level-0 table #467: started
+2021/07/31-22:51:45.001 f Level-0 table #467: 116567 bytes OK
+2021/07/31-22:51:45.008 f Delete type=0 #463
+2021/07/31-22:58:13.661 f Level-0 table #469: started
+2021/07/31-22:58:13.667 f Level-0 table #469: 141454 bytes OK
+2021/07/31-22:58:13.716 f Delete type=0 #466
+2021/07/31-23:49:58.251 26 Level-0 table #471: started
+2021/07/31-23:49:58.262 26 Level-0 table #471: 109102 bytes OK
+2021/07/31-23:49:58.268 26 Delete type=0 #468

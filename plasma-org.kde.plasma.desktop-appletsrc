@@ -88,4 +88,4 @@ Image=file:///usr/share/wallpapers/Next/contents/images/3840x2160.png
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/brave-browser.desktop,0,desktop:/,0
+screenMapping=desktop:/,0,desktop:/brave-browser.desktop,0

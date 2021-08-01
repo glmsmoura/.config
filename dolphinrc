@@ -15,8 +15,8 @@ FontWeight=50
 detailViewIconSize=16
 
 [KPropertiesDialog]
-eDP1 Height 1366x768=544
-eDP1 Width 1366x768=442
+eDP1 Height 1366x768=458
+eDP1 Width 1366x768=341
 
 [MainWindow]
 MenuBar=Disabled
@@ -33,9 +33,6 @@ History=unzip,unrar
 
 [PreviewSettings]
 Plugins=audiothumbnail,imagethumbnail,comicbookthumbnail,directorythumbnail,fontthumbnail,exrthumbnail,ebookthumbnail,svgthumbnail,cursorthumbnail,windowsimagethumbnail,windowsexethumbnail,jpegthumbnail,kraorathumbnail,opendocumentthumbnail,appimagethumbnail,djvuthumbnail
-
-[Search]
-Location=Everywhere
 
 [SettingsDialog]
 eDP1 Height 1366x768=440
