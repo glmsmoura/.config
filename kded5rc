@@ -53,7 +53,7 @@ autoload=true
 autoload=true
 
 [Module-plasmavault]
-autoload=true
+autoload=false
 
 [Module-proxyscout]
 autoload=true
@@ -65,10 +65,10 @@ autoload=true
 autoload=true
 
 [Module-smbwatcher]
-autoload=true
+autoload=false
 
 [Module-statusnotifierwatcher]
-autoload=true
+autoload=false
 
 [Module-touchpad]
 autoload=true

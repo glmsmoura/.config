@@ -1,15 +1,20 @@
 [1]
-Active Tab Index=1
-Tab Count=2
-Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\xcabaloosearch:?json=%7B%22includeFolder%22:%22/home/gabri/Downloads%22,%22searchString%22:%22filename:%5C%22fira%20code%20nerd%20font%5C%22%22%7D&title=Query%20Results%20from%20'fira%20code%20nerd%20font'\x00\x00\x00\x00\x01\x00\x00\x00Vfile:///home/gabri/Downloads/Fira%20Code%20Regular%20Nerd%20Font%20Complete%20Mono.ttf\x00\x00\x00\x01\x00\x00\x00Vfile:///home/gabri/Downloads/Fira%20Code%20Regular%20Nerd%20Font%20Complete%20Mono.ttf\x00\x00\x00\x00\x00\x00\x01 \x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\xe0\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00+file:///home/gabri/.local/share/wallpapers/\x00\x00\x00\x00\x01\x00\x00\x00Jfile:///home/gabri/.local/share/wallpapers/Blue%20Purple%20With%20Logo.png\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00\x1afile:///home/gabri/Desktop\x00\x00\x00\x00\x01\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00+file:///home/gabri/.local/share/Steam/skins\x00\x00\x00\x00\x01\x00\x00\x00?file:///home/gabri/.local/share/Steam/skins/metro-for-steam-4.4\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [WindowProperties1]
 ClassName=DolphinMainWindow
 MenuBar=Disabled
 ObjectName=Dolphin#1
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACsvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAACsgAAAF0BAAADAAAAAQAAALgAAAHG/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAAHGAAAACgEAAAMAAAADAAAC/AAAALb8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAC/AAAAAoBAAADAAAB6wAAArIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABXAAACsPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAACsAAAAF0BAAADAAAAAQAAALgAAAHG/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAAHGAAAACgEAAAMAAAADAAAC/AAAALb8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAC/AAAAAoBAAADAAAE9gAAArAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+eDP-1 Height 1366x768=734
+eDP-1 Width 1366x768=1358
+eDP-1 XPosition 1366x768=4
+eDP-1 YPosition 1366x768=28
 eDP1 Height 1366x768=736
 eDP1 Width 1366x768=676
 eDP1 XPosition 1366x768=4

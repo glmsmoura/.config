@@ -17,18 +17,29 @@ Recent Files[$e]=My Layout.layout.latte,file:$HOME/.config/latte/My Layout.layou
 Recent URLs[$e]=file:$HOME/.config/,file:$HOME/,file:$HOME/.config/latte/
 detailViewIconSize=16
 
+[KPropertiesDialog]
+eDP-1 Height 1366x768=453
+eDP-1 Width 1366x768=464
+
 [PlasmaThemeExtended]
 outlineWidth=1
 
+[PlasmaTransientsConfig]
+PreloadWeight=10
+
 [ScreenConnectors]
-10=eDP1
-11=HDMI1
+10=eDP1:::0,0 1366x768
+11=HDMI1:::0,0 1920x1080
+12=eDP-1:::0,0 1366x768
 
 [UniversalSettings]
 badges3DStyle=false
 canDisableBorders=false
+contextMenuActionsAlwaysShown=
 currentLayout=QTile-Floating
 downloadWindowSize=800,550
+inAdvancedModeForEditSettings=true
+isAvailableGeometryBroadcastedToPlasma=true
 lastNonAssignedLayout=QTile-Floating
 launchers=
 layoutsColumnWidths=117,122,66,0
@@ -38,6 +49,7 @@ metaPressAndHoldEnabled=true
 mouseSensitivity=2
 screenTrackerInterval=2500
 showInfoWindow=true
+singleModeLayoutName=QTile-Floating
 version=2
 
 [UniversalSettings][ScreenScales]

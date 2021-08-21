@@ -127,6 +127,7 @@ Theme=candy-icons
 ColorScheme=BreezeLight
 LookAndFeelPackage=org.kde.breezedark.desktop
 contrast=4
+widgetStyle=Breeze
 
 [KFileDialog Settings]
 Allow Expansion=false

@@ -11,8 +11,8 @@ lastUpdate=2021,7,15,16,36,25.012
 updateInterval=3
 
 [Containments][1]
-ItemGeometries-1366x768=Applet-7:1264,0,96,96,0;
-ItemGeometriesHorizontal=Applet-7:1264,0,96,96,0;
+ItemGeometries-1366x768=
+ItemGeometriesHorizontal=
 activityId=e69b0424-3fec-4cdc-8725-0c032bc4b1c6
 formfactor=0
 immutability=1
@@ -21,30 +21,17 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][1][Applets][7]
-immutability=1
-plugin=org.kde.plasma.timer
-
-[Containments][1][Applets][7][Configuration]
-PreloadWeight=0
-
-[Containments][1][Applets][7][Configuration][ConfigDialog]
-DialogHeight=558
-DialogWidth=720
-
-[Containments][1][Applets][7][Configuration][General]
-savedAt=2021,7,23,20,58,7.73
-
 [Containments][1][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
 
 [Containments][1][Configuration]
-PreloadWeight=0
+PreloadWeight=34
 
 [Containments][1][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=300
+ToolBoxButtonX=290
+ToolBoxButtonY=22
 iconSize=2
 sortMode=-1
 
@@ -56,6 +43,24 @@ SlidePaths=/usr/share/wallpapers
 FillMode=2
 Provider=epod
 
+[Containments][2][Applets][3][Configuration]
+PreloadWeight=92
+
+[Containments][2][Applets][4][Configuration]
+PreloadWeight=42
+
+[Containments][2][Applets][5][Configuration]
+PreloadWeight=42
+
+[Containments][2][Applets][6][Configuration]
+PreloadWeight=42
+
+[Containments][2][Applets][7][Configuration]
+PreloadWeight=47
+
+[Containments][2][Configuration]
+PreloadWeight=42
+
 [Containments][8]
 activityId=e69b0424-3fec-4cdc-8725-0c032bc4b1c6
 formfactor=0
@@ -66,10 +71,10 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][8][Configuration]
-PreloadWeight=18
+PreloadWeight=34
 
 [Containments][8][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Next/contents/images/3840x2160.png
+Image=file:///home/gabri/.local/share/wallpapers/Vortex-Wallpaper.png
 
 [Containments][9]
 activityId=e69b0424-3fec-4cdc-8725-0c032bc4b1c6
@@ -81,11 +86,11 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][9][Configuration]
-PreloadWeight=18
+PreloadWeight=10
 
 [Containments][9][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Next/contents/images/3840x2160.png
+Image=file:///home/gabri/.local/share/wallpapers/Vortex-Wallpaper.png
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/,0,desktop:/brave-browser.desktop,0
+screenMapping=desktop:/brave-browser.desktop,0,desktop:/,0

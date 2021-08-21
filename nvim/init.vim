@@ -6,7 +6,6 @@ hi CocWarningSign ctermfg=166
 
 call plug#begin('~/.vim/plugged')
 
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'arcticicestudio/nord-vim'
 Plug 'lambdalisue/suda.vim'
 
