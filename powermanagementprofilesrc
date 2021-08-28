@@ -9,7 +9,7 @@ lockBeforeTurnOff=0
 idleTime=300000
 
 [AC][HandleButtonEvents]
-lidAction=64
+lidAction=1
 powerButtonAction=16
 triggerLidActionWhenExternalMonitorPresent=false
 
