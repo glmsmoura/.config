@@ -24,9 +24,6 @@ eDP-1 Width 1366x768=464
 [PlasmaThemeExtended]
 outlineWidth=1
 
-[PlasmaTransientsConfig]
-PreloadWeight=2
-
 [ScreenConnectors]
 10=eDP1:::0,0 1366x768
 11=HDMI1:::0,0 1920x1080

@@ -9,7 +9,7 @@ lockBeforeTurnOff=0
 idleTime=300000
 
 [AC][HandleButtonEvents]
-lidAction=1
+lidAction=64
 powerButtonAction=16
 triggerLidActionWhenExternalMonitorPresent=false
 
@@ -17,8 +17,7 @@ triggerLidActionWhenExternalMonitorPresent=false
 icon=battery-060
 
 [Battery][DPMSControl]
-idleTime=300
-lockBeforeTurnOff=0
+idleTime=600
 
 [Battery][DimDisplay]
 idleTime=60000

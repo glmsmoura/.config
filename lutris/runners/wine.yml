@@ -1,0 +1,4 @@
+system: {}
+wine:
+  esync: false
+  version: system

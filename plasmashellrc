@@ -7,9 +7,6 @@ detailViewIconSize=16
 eDP1 Height 1366x768=453
 eDP1 Width 1366x768=464
 
-[PlasmaTransientsConfig]
-PreloadWeight=42
-
 [PlasmaViews][Panel 2][Defaults]
 thickness=21
 
