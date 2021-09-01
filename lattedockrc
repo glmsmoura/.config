@@ -21,8 +21,14 @@ detailViewIconSize=16
 eDP-1 Height 1366x768=453
 eDP-1 Width 1366x768=464
 
+[Notification Messages]
+klipperClearHistoryAskAgain=false
+
 [PlasmaThemeExtended]
 outlineWidth=1
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
 
 [ScreenConnectors]
 10=eDP1:::0,0 1366x768
