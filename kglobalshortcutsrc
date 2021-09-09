@@ -29,7 +29,9 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
 {39ce1283-2a30-494b-a76c-c4b5d329a2a9}=Alt+Return,none,Alacritty
+{7e64a4da-239b-41a1-a69a-d9bf26109369}=none,none,Launch Konsole
 {9db3c77f-dd44-4d02-9b08-68b49002de22}=Print,none,Flameshot
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Pesquisar
 
 [kmix]
 _k_friendly_name=Audio Volume

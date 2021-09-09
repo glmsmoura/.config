@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=candy-icons.tar,file:$HOME/icons/Vortex-modified.tar,file:$HOME/icons/candy-icons.tar
-Recent URLs[$e]=file:$HOME/icons/,file:$HOME/
+Recent Files[$e]=candy-icons.tar,file:$HOME/Downloads/glmsmoura_krohnkite_schemes.kksrc
+Recent URLs[$e]=file:$HOME/,file:$HOME/Downloads/
 detailViewIconSize=16
 
 [MainWindow]

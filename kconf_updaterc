@@ -6,9 +6,9 @@ done=BreezeToBreezeLight
 mtime=1630414448
 
 [delete_cursor_old_default_size.upd]
-ctime=1630446764
+ctime=1631205550
 done=DeleteCursorOldDefaultSize
-mtime=1630414814
+mtime=1631033176
 
 [disable_kmix.upd]
 ctime=1630446765
@@ -51,9 +51,9 @@ done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbna
 mtime=1625559199
 
 [icons_remove_effects.upd]
-ctime=1630446764
+ctime=1631205550
 done=IconsRemoveEffects
-mtime=1630414814
+mtime=1631033176
 
 [kcminputrc_fix_botched_5_21_0.upd]
 ctime=1630446764
@@ -71,14 +71,14 @@ done=5.0KDE4Breeze_2
 mtime=1630414448
 
 [krunnerglobalshortcuts2.upd]
-ctime=1630446764
+ctime=1631205550
 done=5.22KRunnerGlobalShortcuts
-mtime=1630414814
+mtime=1631033176
 
 [krunnerhistory.upd]
-ctime=1630446764
+ctime=1631205550
 done=5.21KRunnerHistory
-mtime=1630414814
+mtime=1631033176
 
 [kscreenlocker.upd]
 ctime=1630446763
@@ -116,6 +116,6 @@ done=spectacle-migrate-shortcuts
 mtime=1623147722
 
 [style_widgetstyle_default_breeze.upd]
-ctime=1630446764
+ctime=1631205550
 done=StyleWidgetStyleDefaultBreeze
-mtime=1630414814
+mtime=1631033176
