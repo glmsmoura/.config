@@ -1,6 +1,6 @@
 [Main Settings]
-GroupSplitterSizes=160,645
-PreviewSplitterSizes=508,136
+GroupSplitterSizes=160,469
+PreviewSplitterSizes=332,136
 
 [Runner Dialog]
 DontShowFinishedMsg=true
