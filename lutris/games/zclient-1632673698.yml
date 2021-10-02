@@ -1,0 +1,16 @@
+game:
+  arch: win64
+  exe: /home/gabri/Games/ZClient/ZClient.exe
+  prefix: ~/.local/share/wineprefixes/D2R
+system:
+  env:
+    RADV_DEBUG: nohiz
+  prefer_system_libs: true
+  prefix_command: prime-run
+  prime: true
+  terminal_app: /usr/bin/alacritty
+wine:
+  ShowCrashDialog: true
+  dxvk_version: v1.9.2L
+  show_debug: ''
+  version: lutris-ge-lol-6.16-2-x86_64

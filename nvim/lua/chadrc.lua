@@ -81,7 +81,7 @@ M.plugin_status = {
    colorizer = true,
    comment = true, -- universal commentor
    dashboard = true, -- a nice looking dashboard
-   esc_insertmode = true, -- escape from insert mode using custom keys
+   esc_insertmode = false, -- escape from insert mode using custom keys
    feline = true, -- statusline
    gitsigns = true, -- gitsigns in statusline
    lspsignature = true, -- lsp enhancements
@@ -120,10 +120,10 @@ M.mappings = {
    terminal = {
       -- multiple mappings can be given for esc_termmode and esc_hide_termmode
       -- get out of terminal mode
-      esc_termmode = { "jk" }, -- multiple mappings allowed
+      esc_termmode = { "<Esc>" }, -- multiple mappings allowed
       -- get out of terminal mode and hide it
       -- it does not close it, see pick_term mapping to see hidden terminals
-      esc_hide_termmode = { "JK" }, -- multiple mappings allowed
+      esc_hide_termmode = { "zz" }, -- multiple mappings allowed
       -- show hidden terminal buffers in a telescope picker
       pick_term = "<leader>W",
       -- below three are for spawning terminals
@@ -164,7 +164,7 @@ M.mappings.plugin = {
    },
    -- note: this is an edditional mapping to escape, escape key will still work
    better_escape = {
-      esc_insertmode = { "jk" }, -- multiple mappings allowed
+      esc_insertmode = { "zz" }, -- multiple mappings allowed
    },
    nvimtree = {
       toggle = "<C-n>", -- file manager
@@ -207,11 +207,17 @@ M.mappings.plugin = {
 -- cmd:  for vim commands, must use ':' at start and add <CR> at the end if want to execute
 -- options: see :h nvim_set_keymap() opts section
 M.custom.mappings = {
-   -- clear_all = {
-   --    "n",
-   --    "<leader>cc",
-   --    "gg0vG$d",
-   -- },
-}
+    infinity_window_k = {
+       "n",
+       "<C-k>",
+       ":wincmd W<CR>",
+    },
+
+    infinity_window_j = {
+       "n",
+       "<C-j>",
+       ":wincmd w<CR>",
+    },
+ }
 
 return M

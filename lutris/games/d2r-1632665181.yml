@@ -1,0 +1,19 @@
+game:
+  arch: win64
+  exe: /home/gabri/Games/Diablo 2 Resurrected/D2R.exe
+  prefix: ~/.local/share/wineprefixes/D2R
+system:
+  env:
+    RADV_DEBUG: nohiz
+  prefer_system_libs: true
+  prefix_command: ''
+  prime: true
+  terminal_app: /usr/bin/alacritty
+  vk_icd: ''
+wine:
+  ShowCrashDialog: true
+  dxvk: true
+  dxvk_version: v1.9.2L
+  esync: false
+  show_debug: ''
+  version: lutris-ge-6.16-1-x86_64

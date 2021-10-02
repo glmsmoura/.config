@@ -27,13 +27,11 @@ klipperClearHistoryAskAgain=false
 [PlasmaThemeExtended]
 outlineWidth=1
 
-[PlasmaTransientsConfig]
-PreloadWeight=42
-
 [ScreenConnectors]
 10=eDP1:::0,0 1366x768
 11=HDMI1:::0,0 1920x1080
-12=eDP-1:::0,0 1366x768
+12=eDP-1:::0,0 1280x720
+13=HDMI-1:::0,0 1280x720
 
 [UniversalSettings]
 badges3DStyle=false

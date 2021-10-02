@@ -1,12 +1,16 @@
 [Added Associations]
+application/vnd.rar=unrar-2.desktop;unrar.desktop;
 application/x-tar=tar.desktop;
+application/x-xz-compressed-tar=tar-2.desktop;
 application/zip=unzip.desktop;
 inode/directory=org.kde.dolphin.desktop;
 x-scheme-handler/http=brave-browser.desktop;
 x-scheme-handler/https=brave-browser.desktop;
 
 [Default Applications]
+application/vnd.rar=unrar-2.desktop;
 application/x-tar=tar.desktop;
+application/x-xz-compressed-tar=tar-2.desktop;
 application/zip=unzip.desktop;
 inode/directory=org.kde.dolphin.desktop;
 text/html=brave-browser.desktop

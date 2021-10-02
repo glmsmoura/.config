@@ -1,2 +1,5 @@
+[Adapters]
+A4:63:A1:18:2A:CE_powered=false
+
 [Devices]
 connectedDevices=
