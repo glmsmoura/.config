@@ -1,5 +1,5 @@
 [$Version]
-update_info=kwinrules.upd:replace-placement-string-to-enum
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
 [1]
 opacityactive=70
@@ -18,3 +18,4 @@ types=1
 
 [General]
 count=2
+rules=1,2

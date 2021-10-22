@@ -1,5 +1,6 @@
 [EmbedSettings]
 embed-application/vnd.rar=false
+embed-application/x-compressed-tar=false
 embed-application/x-tar=false
 embed-application/x-xz-compressed-tar=false
 embed-application/zip=false

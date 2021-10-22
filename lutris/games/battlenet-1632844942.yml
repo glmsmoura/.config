@@ -1,6 +1,0 @@
-game:
-  arch: win64
-  exe: /home/gabri/Games/Diablo 2 Resurrected/Diablo II Resurrected Launcher.exe
-system: {}
-wine:
-  version: lutris-ge-6.16-1-x86_64

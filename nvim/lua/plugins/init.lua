@@ -276,12 +276,12 @@ return packer.startup(function()
    -- file managing , picker etc
    use {
       "kyazdani42/nvim-tree.lua",
-      cmd = { "NvimTreeToggle", "NvimTreeFocus" },
-      config = function()
-         require "plugins.configs.nvimtree"
-      end,
+      requires = 'kyazdani42/nvim-web-devicons',
       setup = function()
          require("core.mappings").nvimtree()
+      end,
+      config = function()
+         require "nvim-tree".setup()
       end,
    }
 
@@ -337,6 +337,22 @@ return packer.startup(function()
          require("core.mappings").truezen()
       end,
    }
+   
+
+   -- orgmode plugin
+   use {
+     "kristijanhusak/orgmode.nvim",
+     config = function()
+        require('orgmode').setup{}
+     end,
+   }
+  
+
+   --SudaWrite/SudaRead
+   use {
+     "lambdalisue/suda.vim",
+   }
+
 
    use {
       "tpope/vim-fugitive",

@@ -1,7 +1,9 @@
 [Emojier]
-recent=☺️
-recentDescriptions=smiling face
+recent=🏼,☺️
+recentDescriptions=medium-light skin tone,smiling face
 
 [Window]
+eDP-1 Height 1280x720=686
+eDP-1 Width 1280x720=633
 eDP1 Height 1366x768=736
 eDP1 Width 1366x768=676

@@ -13,3 +13,4 @@ end
 
 -- set all the non plugin mappings
 require("core.mappings").misc()
+

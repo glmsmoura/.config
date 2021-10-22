@@ -1,4 +1,5 @@
 [General]
+AirplaneModeEnabled=false
 HotspotName=gabri-hotspot
 HotspotPassword=
 ManageVirtualConnections=false
