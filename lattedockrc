@@ -21,11 +21,34 @@ detailViewIconSize=16
 eDP-1 Height 1366x768=453
 eDP-1 Width 1366x768=464
 
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1100,664
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=49,508,129,104
+sortColumn=3
+sortOrder=0
+
+[LatteSettingsDialog][ViewsDialog]
+columnWidths=59,256,142,135,131
+sortColumn=2
+sortOrder=0
+windowSize=980,630
+
 [Notification Messages]
 klipperClearHistoryAskAgain=false
 
 [PlasmaThemeExtended]
 outlineWidth=1
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+enableKWinEdges=true
+raiseOnActivityChange=false
+raiseOnDesktopChange=false
+timerHide=700
+timerShow=200
 
 [ScreenConnectors]
 10=eDP1:::0,0 1366x768
@@ -54,4 +77,5 @@ singleModeLayoutName=QTile-Floating
 version=2
 
 [UniversalSettings][ScreenScales]
+eDP-1=1.083;1
 eDP1=0.96;0.96

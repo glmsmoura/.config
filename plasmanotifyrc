@@ -6,4 +6,5 @@ ShowPopups=false
 Seen=true
 
 [DoNotDisturb]
-Until=2022,6,24,15,51,19.676
+NotificationSoundsMuted=true
+Until=2022,10,29,19,33,19.694
