@@ -1,5 +1,5 @@
 local present1, lspconfig = pcall(require, "lspconfig")
-local present2, lspinstall = pcall(require, "lspinstall")
+local present2, lspinstall = pcall(require, "nvim-lsp-installer")
 
 if not (present1 or present2) then
    return
@@ -58,52 +58,22 @@ capabilities.textDocument.completion.completionItem.resolveSupport = {
 }
 
 -- lspInstall + lspconfig stuff
+local lsp_installer = require("nvim-lsp-installer")
 
-local function setup_servers()
-   lspinstall.setup()
-   local servers = lspinstall.installed_servers()
+-- Register a handler that will be called for all installed servers.
+-- Alternatively, you may also register handlers on specific server instances instead (see example below).
+lsp_installer.on_server_ready(function(server)
+    local opts = {}
 
-   for _, lang in pairs(servers) do
-      if lang ~= "lua" then
-         lspconfig[lang].setup {
-            on_attach = on_attach,
-            capabilities = capabilities,
-            flags = {
-               debounce_text_changes = 500,
-            },
-            -- root_dir = vim.loop.cwd,
-         }
-      elseif lang == "lua" then
-         lspconfig[lang].setup {
-            on_attach = on_attach,
-            capabilities = capabilities,
-            flags = {
-               debounce_text_changes = 500,
-            },
-            settings = {
-               Lua = {
-                  diagnostics = {
-                     globals = { "vim" },
-                  },
-                  workspace = {
-                     library = {
-                        [vim.fn.expand "$VIMRUNTIME/lua"] = true,
-                        [vim.fn.expand "$VIMRUNTIME/lua/vim/lsp"] = true,
-                     },
-                     maxPreload = 100000,
-                     preloadFileSize = 10000,
-                  },
-                  telemetry = {
-                     enable = false,
-                  },
-               },
-            },
-         }
-      end
-   end
-end
+    -- (optional) Customize the options passed to the server
+    -- if server.name == "tsserver" then
+    --     opts.root_dir = function() ... end
+    -- end
 
-setup_servers()
+    -- This setup() function is exactly the same as lspconfig's setup function.
+    -- Refer to https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
+    server:setup(opts)
+end)
 
 -- Automatically reload after `:LspInstall <server>` so we don't have to restart neovim
 lspinstall.post_install_hook = function()

@@ -10,6 +10,12 @@ eDP1 Width 1366x768=464
 [PlasmaTransientsConfig]
 PreloadWeight=34
 
+[PlasmaViews][Panel 11][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 11][Horizontal1280]
+thickness=27
+
 [PlasmaViews][Panel 2][Defaults]
 thickness=21
 

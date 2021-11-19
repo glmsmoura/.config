@@ -18,7 +18,9 @@ Recent URLs[$e]=file:$HOME/.config/,file:$HOME/,file:$HOME/.config/latte/
 detailViewIconSize=16
 
 [KPropertiesDialog]
+eDP-1 Height 1280x720=458
 eDP-1 Height 1366x768=453
+eDP-1 Width 1280x720=413
 eDP-1 Width 1366x768=464
 
 [LatteSettingsDialog]
@@ -77,5 +79,5 @@ singleModeLayoutName=QTile-Floating
 version=2
 
 [UniversalSettings][ScreenScales]
-eDP-1=1.083;1
+eDP-1=1.15;1
 eDP1=0.96;0.96
