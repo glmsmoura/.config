@@ -155,6 +155,13 @@ return packer.startup(function()
       end,
    }
 
+   --linting with lsp
+  use {
+    "dense-analysis/ale",
+    after = "nvim-lspconfig",
+  }
+
+
    -- load autosave only if its globally enabled
    use {
       disable = not plugin_status.autosave,
