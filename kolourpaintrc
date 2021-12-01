@@ -4,12 +4,13 @@ Last Document Size=887,522
 Open Images in the Same Window=false
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Desktop/123123.png,file:$HOME/Desktop/123123.png
-Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Documents/
+Recent Files[$e]=file:$HOME/Desktop/lala.png,file:$HOME/Desktop/lala.png
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Documents/,file:$HOME/
 detailViewIconSize=16
 
 [MainWindow]
 MenuBar=Disabled
+RestorePositionForNextInstance=false
 State=AAAA/wAAAAD9AAAAAQAAAAMAAASoAAAAbPwBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAAFAAAASoAAACEgEAAAMAAASoAAAB+AAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAAtf/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 eDP-1 Height 1280x720=684
@@ -25,12 +26,12 @@ eDP1 YPosition 1366x768=26
 ToolButtonStyle=IconOnly
 
 [Recent Files]
-File1[$e]=$HOME/Desktop/123123.png
-Name1[$e]=123123.png
+File1[$e]=$HOME/Desktop/lala.png
+Name1[$e]=lala.png
 
 [Tool Settings]
-Last Used Tool=1
-Tool Widget Brush Col=0
+Last Used Tool=0
+Tool Widget Brush Col=2
 Tool Widget Brush Row=0
 Tool Widget Eraser Size Col=0
 Tool Widget Eraser Size Row=1
