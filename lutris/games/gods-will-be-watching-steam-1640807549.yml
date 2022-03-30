@@ -1,0 +1,6 @@
+game:
+  appid: '274290'
+  steamless_binary: /home/gabri/.local/share/Steam/steamapps/common/Gods Will Be Watching/gwbw.exe
+steam: {}
+system:
+  prefer_system_libs: false

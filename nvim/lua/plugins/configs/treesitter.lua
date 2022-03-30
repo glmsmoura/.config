@@ -1,4 +1,5 @@
 local present, ts_config = pcall(require, "nvim-treesitter.configs")
+
 if not present then
    return
 end
@@ -6,6 +7,7 @@ end
 ts_config.setup {
    ensure_installed = {
       "lua",
+      "vim",
    },
    highlight = {
       enable = true,
@@ -14,6 +16,6 @@ ts_config.setup {
    rainbow = {
      enable = true,
      extended_mode = true,
-     max_file_lines = 1000,
- },
+     max_file_lines = nil,
+   }
 }

@@ -1,10 +1,12 @@
 local utils = require "core.utils"
+local hooks = require "core.hooks"
 
 local config = utils.load_config()
 local map = utils.map
 
 local maps = config.mappings
-local plugin_maps = maps.plugin
+local plugin_maps = maps.plugins
+local nvChad_options = config.options.nvChad
 
 local cmd = vim.cmd
 
@@ -27,21 +29,26 @@ M.misc = function()
 
       -- use ESC to turn off search highlighting
       map("n", "<Esc>", ":noh <CR>")
+
+      -- center cursor when moving (goto_definition)
+
+      -- yank from current cursor to end of line
+      map("n", "Y", "yg$")
    end
 
    local function optional_mappings()
       -- don't yank text on cut ( x )
-      if not config.options.copy_cut then
+      if not nvChad_options.copy_cut then
          map({ "n", "v" }, "x", '"_x')
       end
 
       -- don't yank text on delete ( dd )
-      if not config.options.copy_del then
-         map({ "n", "v" }, "dd", '"_dd')
+      if not nvChad_options.copy_del then
+         map({ "n", "v" }, "d", '"_d')
       end
 
       -- navigation within insert mode
-      if config.options.insert_nav then
+      if nvChad_options.insert_nav then
          local inav = maps.insert_nav
 
          map("i", inav.backward, "<Left>")
@@ -49,26 +56,28 @@ M.misc = function()
          map("i", inav.forward, "<Right>")
          map("i", inav.next_line, "<Up>")
          map("i", inav.prev_line, "<Down>")
-         map("i", inav.top_of_line, "<ESC>^i")
+         map("i", inav.beginning_of_line, "<ESC>^i")
       end
 
-      -- check the theme toggler
-      if config.ui.theme_toggler then
-         map(
-            "n",
-            maps.theme_toggler,
-            ":lua require('nvchad').toggle_theme(require('core.utils').load_config().ui.theme_toggler.fav_themes) <CR>"
-         )
+      -- easier navigation between windows
+      if nvChad_options.window_nav then
+         local wnav = maps.window_nav
+
+         map("n", wnav.moveLeft, "<C-w>h")
+         map("n", wnav.moveRight, "<C-w>l")
+         map("n", wnav.moveUp, "<C-w>k")
+         map("n", wnav.moveDown, "<C-w>j")
       end
    end
 
    local function required_mappings()
-      map("n", maps.close_buffer, ":lua require('core.utils').close_buffer() <CR>") -- close  buffer
-      map("n", maps.copy_whole_file, ":%y+ <CR>") -- copy whole file content
-      map("n", maps.new_buffer, ":enew <CR>") -- new buffer
-      map("n", maps.new_tab, ":tabnew <CR>") -- new tabs
-      map("n", maps.line_number_toggle, ":set nu! <CR>") -- toggle numbers
-      map("n", maps.save_file, ":w <CR>") -- ctrl + s to save file
+      map("n", maps.misc.cheatsheet, ":lua require('nvchad.cheatsheet').show() <CR>") -- show keybinds
+      map("n", maps.misc.close_buffer, ":lua require('core.utils').close_buffer() <CR>") -- close  buffer
+      map("n", maps.misc.copy_whole_file, ":%y+ <CR>") -- copy whole file content
+      map("n", maps.misc.new_buffer, ":enew <CR>") -- new buffer
+      map("n", maps.misc.new_tab, ":tabnew <CR>") -- new tabs
+      map("n", maps.misc.line_number_toggle, ":set nu! <CR>") -- toggle numbers
+      map("n", maps.misc.save_file, ":w <CR>") -- ctrl + s to save file
 
       -- terminal mappings --
       local term_maps = maps.terminal
@@ -95,61 +104,28 @@ M.misc = function()
 
       -- add NvChadUpdate command and mapping
       cmd "silent! command! NvChadUpdate lua require('nvchad').update_nvchad()"
-      map("n", maps.update_nvchad, ":NvChadUpdate <CR>")
-
-      -- add ChadReload command and maping
-      -- cmd "silent! command! NvChadReload lua require('nvchad').reload_config()"
-   end
-
-   local function user_config_mappings()
-      local custom_maps = config.custom.mappings or ""
-      if type(custom_maps) ~= "table" then
-         return
-      end
-
-      for _, map_table in pairs(custom_maps) do
-         map(unpack(map_table))
-      end
+      map("n", maps.misc.update_nvchad, ":NvChadUpdate <CR>")
    end
 
    non_config_mappings()
    optional_mappings()
    required_mappings()
-   user_config_mappings()
+   hooks.run("setup_mappings", map)
 end
 
 -- below are all plugin related mappings
-
-M.better_escape = function()
-   vim.g.better_escape_shortcut = plugin_maps.better_escape.esc_insertmode or { "" }
-end
 
 M.bufferline = function()
    local m = plugin_maps.bufferline
 
    map("n", m.next_buffer, ":BufferLineCycleNext <CR>")
    map("n", m.prev_buffer, ":BufferLineCyclePrev <CR>")
-   --map("n", m.moveLeft, "<C-w>h")
-   --map("n", m.moveRight, "<C-w>l")
-   --map("n", m.moveUp, "<C-w>k")
-   --map("n", m.moveDown, "<C-w>j")
-end
-
-M.chadsheet = function()
-   local m = plugin_maps.chadsheet
-
-   map("n", m.default_keys, ":lua require('cheatsheet').show_cheatsheet_telescope() <CR>")
-   map(
-      "n",
-      m.user_keys,
-      ":lua require('cheatsheet').show_cheatsheet_telescope{bundled_cheatsheets = false, bundled_plugin_cheatsheets = false } <CR>"
-   )
 end
 
 M.comment = function()
    local m = plugin_maps.comment.toggle
-   map("n", m, ":CommentToggle <CR>")
-   map("v", m, ":CommentToggle <CR>")
+   map("n", m, ":lua require('Comment.api').toggle_current_linewise()<CR>")
+   map("v", m, ":lua require('Comment.api').toggle_linewise_op(vim.fn.visualmode())<CR>")
 end
 
 M.dashboard = function()
@@ -162,50 +138,46 @@ M.dashboard = function()
    map("n", m.session_save, ":SessionSave <CR>")
 end
 
+M.lspconfig = function()
+   local m = plugin_maps.lspconfig
+
+   -- See `:help vim.lsp.*` for documentation on any of the below functions
+   map("n", m.declaration, "<cmd>lua vim.lsp.buf.declaration()<CR>")
+   map("n", m.definition, "<cmd>lua vim.lsp.buf.definition()<CR>")
+   map("n", m.hover, "<cmd>lua vim.lsp.buf.hover()<CR>")
+   map("n", m.implementation, "<cmd>lua vim.lsp.buf.implementation()<CR>")
+   map("n", m.signature_help, "<cmd>lua vim.lsp.buf.signature_help()<CR>")
+   map("n", m.add_workspace_folder, "<cmd>lua vim.lsp.buf.add_workspace_folder()<CR>")
+   map("n", m.remove_workspace_folder, "<cmd>lua vim.lsp.buf.remove_workspace_folder()<CR>")
+   map("n", m.list_workspace_folders, "<cmd>lua print(vim.inspect(vim.lsp.buf.list_workspace_folders()))<CR>")
+   map("n", m.type_definition, "<cmd>lua vim.lsp.buf.type_definition()<CR>")
+   map("n", m.rename, "<cmd>lua vim.lsp.buf.rename()<CR>")
+   map("n", m.code_action, "<cmd>lua vim.lsp.buf.code_action()<CR>")
+   map("n", m.references, "<cmd>lua vim.lsp.buf.references()<CR>")
+   map("n", m.float_diagnostics, "<cmd>lua vim.diagnostic.open_float()<CR>")
+   map("n", m.goto_prev, "<cmd>lua vim.diagnostic.goto_prev()<CR>")
+   map("n", m.goto_next, "<cmd>lua vim.diagnostic.goto_next()<CR>")
+   map("n", m.set_loclist, "<cmd>lua vim.diagnostic.setloclist()<CR>")
+   map("n", m.formatting, "<cmd>lua vim.lsp.buf.formatting()<CR>")
+end
+
 M.nvimtree = function()
    map("n", plugin_maps.nvimtree.toggle, ":NvimTreeToggle <CR>")
    map("n", plugin_maps.nvimtree.focus, ":NvimTreeFocus <CR>")
-end
-
-M.neoformat = function()
-   map("n", plugin_maps.neoformat.format, ":Neoformat <CR>")
 end
 
 M.telescope = function()
    local m = plugin_maps.telescope
 
    map("n", m.buffers, ":Telescope buffers <CR>")
-   map("n", m.find_files, ":Telescope find_files hidden=true <CR>")
-   map("n", m.find_hiddenfiles, ":Telescope find_files hidden=true <CR>")
+   map("n", m.find_files, ":Telescope find_files <CR>")
+   map("n", m.find_hiddenfiles, ":Telescope find_files no_ignore=true hidden=true <CR>")
    map("n", m.git_commits, ":Telescope git_commits <CR>")
    map("n", m.git_status, ":Telescope git_status <CR>")
    map("n", m.help_tags, ":Telescope help_tags <CR>")
    map("n", m.live_grep, ":Telescope live_grep <CR>")
    map("n", m.oldfiles, ":Telescope oldfiles <CR>")
    map("n", m.themes, ":Telescope themes <CR>")
-end
-
-M.telescope_media = function()
-   local m = plugin_maps.telescope_media
-
-   map("n", m.media_files, ":Telescope media_files hidden=true <CR>")
-end
-
-M.truezen = function()
-   local m = plugin_maps.truezen
-
-   map("n", m.ataraxis_mode, ":TZAtaraxis <CR>")
-   map("n", m.focus_mode, ":TZFocus <CR>")
-   map("n", m.minimalistic_mode, ":TZMinimalist <CR>")
-end
-
-M.vim_fugitive = function()
-   local m = plugin_maps.vim_fugitive
-
-   map("n", m.git, ":Git <CR>")
-   map("n", m.git_blame, ":Git blame <CR>")
-   map("n", m.diff_get_2, ":diffget //2 <CR>")
-   map("n", m.diff_get_3, ":diffget //3 <CR>")
 end
 
 return M

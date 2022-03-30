@@ -1,0 +1,2448 @@
+Desktop is 1280 x 720 @ 120 Hz
+New context 0x453d2d8 created with attributes:
+Initialize engine version: 2018.1.9f2 (a6cc294b73ee)
+GfxDevice: creating device client; threaded=1
+Renderer: NVIDIA GeForce MX130/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 495.44
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragm
+ent_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sa
+mpler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_
+ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_
+ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_E
+XT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_
+EXT_window_rectangles GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_float_buffer GL_NV_fog_dis
+tance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_r
+ectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 72602328
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.028 seconds
+OnLevelWasLoaded was found on Flowchart
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on Tweencats
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on LeanTween
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on Localization
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+New context 0x5218498 created with attributes:
+Default vsync count 0
+requesting resize 1280 x 720
+Using native desktop resolution 1280 x 720
+requesting fullscreen 1280 x 720 at 0 Hz
+Desktop is 1280 x 720 @ 120 Hz
+UnloadTime: 0.349000 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.216000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 5319.
+Total: 3.048000 ms (FindLiveObjects: 1.117000 ms CreateObjectMapping: 0.334000 ms MarkObjects: 1.578000 ms  DeleteObjects: 0.019000 ms)
+
+No Playlist Controllers exist in the Scene. Music will not play.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 487)
+
+--------- AWAKE ACHIEVEMENTS ---------
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+The referenced script on this Behaviour (Game Object '[BTN] Slot (1)') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '[CTN] Items') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '[BTN] Slot (2)') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script (SteamManagerBackup) on this Behaviour is missing!
+ 
+(Filename:  Line: 1576)
+
+The referenced script on this Behaviour (Game Object 'SteamworksManager') is missing!
+ 
+(Filename:  Line: 1789)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Setting different resolution: 1280 x 720 @ 60Hz at True
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting different resolution: 1280 x 720 @ 60Hz at True
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Current Playlist is NULL. Subsequent calls will fail.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+requesting resize 1280 x 720
+Using native desktop resolution 1280 x 720
+requesting fullscreen 1280 x 720 at 60 Hz
+Desktop is 1280 x 720 @ 120 Hz
+UnloadTime: 6.389000 ms
+Loading ShopData from SHOP_DATA_PLACEHOLDER
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '[CTN] Items') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '[CTN] Items') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '[BTN] Slot (1)') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '[BTN] Slot (1)') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '[BTN] Slot (2)') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object '[BTN] Slot (2)') is missing!
+ 
+(Filename:  Line: 1789)
+
+Sending Analytics: applicationStarted
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[GameDebug] Debug is enable!
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Received stats and achievements from Steam
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+
+Unloading 59966 unused Assets to reduce memory usage. Loaded Objects now: 104429.
+Total: 114.237000 ms (FindLiveObjects: 10.696000 ms CreateObjectMapping: 10.367000 ms MarkObjects: 51.167000 ms  DeleteObjects: 42.007000 ms)
+
+LEGACY: 'Touchable' component found, should be replace by 'Button': [BTN] Slot (1)
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Skill not found! path: TagSystem/TeamWorkSkills/Engineer
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MainManuManager - Loading Module: ALPHA_SYSTEM
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[TravelManager<T>] Couldn't get a ground enemy data on module: ALPHA_SYSTEM. Returning placeholder...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP found in ALPHA_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Current Playlist is NULL. Subsequent calls will fail.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MainManuManager.OnGenericSpaceLoad
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: OTHER/OTHER_BANTER
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start12
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading HUB
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP2/EP2_G_TIMEMACHINE_3.5_ENDBUILD
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 0 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 0 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 0 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 0 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Current Playlist is NULL. Subsequent calls will fail.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: missionStart
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 12 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP2/EP2_G_TIMEMACHINE_3.5_ENDBUILD
+Block: CHOICE_14_MIND
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP2/EP2_G_TIMEMACHINE_3.5_ENDBUILD
+Block: TIMEMACHINE_4_PART2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Current Playlist is NULL. Subsequent calls will fail.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-POISON-FTHU(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 585.1104 - MasterAudio All children of Tags Poison were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 585.1271 - MasterAudio All children of Tags Poison were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 585.1437 - MasterAudio All children of Tags Poison were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-TENTACLES-FTHU(Clone) (Skill)) - CHECK FAIL - TARGET CHECK
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 677.6518 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 677.6683 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 677.6849 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 677.7181 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 677.768 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 677.8176 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 677.8671 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-TENTACLES-FTHU(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 721.073 - MasterAudio All children of Tags Hit Normal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 721.1227 - MasterAudio All children of Tags Hit Normal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 736.0327 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-TENTACLES-FTHU(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 766.8135 - MasterAudio All children of Tags Hit Normal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 766.8633 - MasterAudio All children of Tags Hit Normal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-ULTIMATE-FTHU(Clone) (Skill)) - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-TENTACLES-FTHU(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 808.8598 - MasterAudio All children of Tags Hit Normal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 808.9094 - MasterAudio All children of Tags Hit Normal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: groundBattleEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP2/EP2_G_TIMEMACHINE_3.5_ENDBUILD
+Block: TIMEMACHINE_4_PART3
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LootManager] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_1
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 48 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 48 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 48 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 48 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: missionEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 900.5699 - MasterAudio All children of Interface Credits Get were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP found in ALPHA_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Custom Event 'SpaceTravelSongEnded' was not found in Master Audio.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: bugReportClicked
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_1.5
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 0 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 0 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 0 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 0 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: missionStart
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LevelUpUI] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+The referenced script on this Behaviour (Game Object 'ITM-HEAL_HP_SP_50') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object 'ITM-HEAL_HP_40') is missing!
+ 
+(Filename:  Line: 1789)
+
+The referenced script on this Behaviour (Game Object 'ITM-HEAL_HP_SP_50_REMOVE_STATUS') is missing!
+ 
+(Filename:  Line: 1789)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LevelUpUI] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LevelUpUI] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP found in ALPHA_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: planetEntered
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 6 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 6 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 6 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 6 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to ECCO not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to ECCO found in ALPHA_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to NODE_DOLPHINOPOLIS not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to NODE_DOLPHINOPOLIS not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to LAIR_ECCO_3 not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to LAIR_ECCO_3 not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to LAIR_ECCO_2 not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to LAIR_ECCO_2 not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to LAIR_ECCO_1 not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to LAIR_ECCO_1 not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+-----onLoadPlanetary
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_2
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Custom Event 'SpaceTravelSongEnded' was not found in Master Audio.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 12 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_2
+Block: CHOICE15_POWER
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_2
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1116.976 - MasterAudio All children of Planet Land were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 6 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 6 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 6 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 6 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_3
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_3
+Block: ANNON
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+LEGACY: 'Touchable' component found, should be replace by 'Button': [TXT] Text
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-MIND_HACK(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-MIND_HACK(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: groundBattleEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_3
+Block: PART2_VICTORY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_4
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 12 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_4
+Block: CHOICE16_MIND
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_4
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_4
+Block: ANNONN
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-PIERCING_ATTACK-WEAK-GINORMUS(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1486.368 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1486.385 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1486.401 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-PIERCING_ATTACK-WEAK-GINORMUS(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL (Status Confusion)
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-GATLING_GUN-GINORMUS(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: groundBattleEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_4
+Block: PART_3VICTORY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LevelUpUI] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LevelUpUI] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+System.SystemException: Error running gmcs: Cannot find the specified file
+  at Mono.CSharp.CSharpCodeCompiler.CompileFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFile (System.CodeDom.Compiler.CompilerParameters options, System.String fileName) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+System.SystemException: Error running gmcs: Cannot find the specified file
+  at Mono.CSharp.CSharpCodeCompiler.CompileFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFile (System.CodeDom.Compiler.CompilerParameters options, System.String fileName) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+System.SystemException: Error running gmcs: Cannot find the specified file
+  at Mono.CSharp.CSharpCodeCompiler.CompileFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFile (System.CodeDom.Compiler.CompilerParameters options, System.String fileName) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1688.24 - MasterAudio All children of Planet Land were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP found in ALPHA_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GINORMUS_SPACESHIP found in ALPHA_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: planetEntered
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: systemEntered
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[TravelManager<T>] Couldn't get a ground enemy data on module: RODDENBERRY_SYSTEM. Returning placeholder...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GATE_RODDENBERRY_TURING not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GATE_RODDENBERRY_TURING found in RODDENBERRY_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1741.527 - MasterAudio All children of Space Combat Laser were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1741.692 - MasterAudio All children of Space Combat Laser were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1741.858 - MasterAudio All children of Space Combat Laser were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1742.189 - MasterAudio All children of Space Combat Laser were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1742.438 - MasterAudio All children of Space Combat Laser were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1742.571 - MasterAudio All children of Space Combat Laser were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1742.68 - MasterAudio All children of Space Combat Hit Metal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1742.736 - MasterAudio All children of Space Combat Laser were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1742.76 - MasterAudio All children of Space Combat Hit Metal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1742.901 - MasterAudio All children of Space Combat Laser were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1743.1 - MasterAudio All children of Space Combat Hit Metal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1743.26 - MasterAudio All children of Space Combat Hit Metal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1743.58 - MasterAudio All children of Space Combat Hit Metal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1743.64 - MasterAudio All children of Space Combat Hit Metal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1743.98 - MasterAudio All children of Space Combat Hit Metal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1754.7 - MasterAudio All children of Space Combat Hit Crash were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1754.72 - MasterAudio All children of Space Combat Hit Crash were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+SPACESHIP ENEMY TURN
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+------------------------------------
+Charge: 5
+HP: 65.59829%
+Roll Action: 24%
+Try Use Repair: FAIL!
+Try Use Buff Attack: SUCCESS!
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1761.44 - MasterAudio All children of Space Combat Hit Crash were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1761.46 - MasterAudio All children of Space Combat Hit Crash were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+------------------------------------
+Charge: 1
+HP: 65.59829%
+Roll Action: 32%
+Try Use Repair: FAIL!
+Try Use Buff Attack: Not Enable! FAIL!
+Try Use Base Attack: FAIL!
+Try Use Special Attack: Not Enable! FAIL!
+Try Use Repair: FAIL!
+Try Use Buff Attack: Not Enable! FAIL!
+Try Use Base Attack: FAIL!
+Try Use Special Attack: Not Enable! FAIL!
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+------------------------------------
+Charge: 1
+HP: 65.59829%
+Roll Action: 18%
+Try Use Repair: FAIL!
+Try Use Buff Attack: Not Enable! FAIL!
+Try Use Base Attack: FAIL!
+Try Use Special Attack: Not Enable! FAIL!
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+------------------------------------
+Charge: 1
+HP: 65.59829%
+Roll Action: 9%
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1769.86 - MasterAudio All children of Space Combat Hit Crash were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+SPACESHIP ENEMY TURN
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+------------------------------------
+Charge: 5
+HP: 24.78633%
+Roll Action: 41%
+Try Use Buff Dodge: Not Enable! FAIL!
+Try Use Buff Attack: SUCCESS!
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1776.06 - MasterAudio All children of Space Combat Hit Crash were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1776.06 - MasterAudio All children of Space Combat Hit Crash were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+------------------------------------
+Charge: 1
+HP: 24.78633%
+Roll Action: 17%
+Try Use Special Attack: Not Enable! FAIL!
+Try Use Buff Dodge: Not Enable! FAIL!
+Try Use Buff Attack: Not Enable! FAIL!
+Try Use Base Attack: FAIL!
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: spaceBattleEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1783.92 - MasterAudio All children of Space Combat Hit Crash were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 9 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 9 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 9 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 9 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Space Combat Explosion 2. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GATE_RODDENBERRY_TURING not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GATE_RODDENBERRY_TURING found in RODDENBERRY_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to TURING_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LootManager] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: planetEntered
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_6
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 12 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_6
+Block: CHOICE17_BODY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_6
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+System.SystemException: Error running gmcs: Cannot find the specified file
+  at Mono.CSharp.CSharpCodeCompiler.CompileFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFile (System.CodeDom.Compiler.CompilerParameters options, System.String fileName) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+[CHAR] Character 2 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+System.SystemException: Error running gmcs: Cannot find the specified file
+  at Mono.CSharp.CSharpCodeCompiler.CompileFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFile (System.CodeDom.Compiler.CompilerParameters options, System.String fileName) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GATE_RODDENBERRY_TURING not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GATE_RODDENBERRY_TURING found in RODDENBERRY_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: planetEntered
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: systemEntered
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to SOL_SYSTEM not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[TravelManager<T>] Couldn't get a ground enemy data on module: TURING_SYSTEM. Returning placeholder...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to MENTAT not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to MENTAT found in TURING_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LevelUpUI] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: planetEntered
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Custom Event 'SpaceTravelSongEnded' was not found in Master Audio.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_8
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+LEGACY: 'Touchable' component found, should be replace by 'Button': [TXT] Text
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-DISORIENT(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1861.554 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-DISORIENT(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 1912.811 - MasterAudio All children of Tags Debuff Remove were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: groundBattleEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9
+Block: PART2_VICTORY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 12 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9
+Block: CHOICE18_MIND
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON0
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 30 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LevelUpUI] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON1
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON1
+Block: CHOICE18_BODY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON1
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON2
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON2
+Block: CHOICE18_MIND
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON2
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON3
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON3
+Block: CHOICE18_BODY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON3
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON4
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON4
+Block: CHOICE18_BODY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON4
+Block: FIGHT
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON4
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON5
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON5
+Block: CHOICE18_BODY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON5
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON6
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON6
+Block: CHOICE18_POWER
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON6
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON7
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON7
+Block: CHOICE18_BODY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON7
+Block: FIGHT
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-BATTLE_CHALLENGE(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: groundBattleEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON7
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON8
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON8
+Block: CHOICE18_SENSES
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON8
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON9
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON9
+Block: CHOICE18_POWER
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON9
+Block: FIGHT
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-KNOCKDOWN-MINION(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-LONG_SHOT-MINION(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2408.038 - MasterAudio All children of Tags Hit Normal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-KNOCKDOWN-MINION(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-LONG_SHOT-MINION(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-KNOCKDOWN-MINION(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2471.008 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2471.025 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2471.041 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-LONG_SHOT-MINION(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-LONG_SHOT-MINION(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-KNOCKDOWN-MINION(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2511.518 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2511.534 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2511.551 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Formation - CHECK FAIL
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: groundBattleEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON9
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LootManager] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON10
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON10
+Block: CHOICE18_MIND
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_9_DUNGEON10
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_11
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 12 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_11
+Block: CHOICE19_SENSES
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_11
+Block: PART_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-POISON-DOGS(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+UseConsumableFromInventory: ITM-Distilled_Water
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: consumableUsed
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Boolean variable equip not found.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Boolean variable equip not found.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2774.861 - MasterAudio All children of Tags Heal were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-DEAD_SHORT-DOGS(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2784.686 - MasterAudio All children of Tags Deadshort were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Attack
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-POISON-DOGS(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Behaviour: Skill (SKILL-POISON-DOGS(Clone) (Skill))
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: roleplayerKilled
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: groundBattleEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_11
+Block: PART3_VICTORY
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 12 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_11
+Block: SAVE_DOGS
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: EP3/EP3_A_DOWNLOADER_11
+Block: PART3
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 1 earned 48 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 2 earned 48 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 3 earned 48 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[CHAR] Character 4 earned 48 XP.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: missionEnd
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+T: 2902.018 - MasterAudio All children of Interface Credits Get were busy. Will not play this sound for this instance.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+[LevelUpUI] No Action Set
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: THU_S_INTER_SHOP_TAB. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+MasterAudio could not find sound: Shop tab. If your Scene just changed, this could happen when an OnDisable or OnInvisible event sound happened to a per-scene sound, which is expected.
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting mission: OTHER/OTHER_NEXTMISSION
+Block: Start
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Starting random block: Start 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GATE_TURING_SOL not found. Trying to find it on all systems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Travel data to GATE_TURING_SOL found in TURING_SYSTEM system. Fixing navigation problems...
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Sending Analytics: applicationQuit
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 7f728a191640 -> priority: 1 
+  Thread -> id: 7f728918f640 -> priority: 1 
+  Thread -> id: 7f728898e640 -> priority: 1 
+  Thread -> id: 7f7289990640 -> priority: 1 

@@ -1,0 +1,14 @@
+game:
+  arch: win32
+  args: /home/gabri/Games/league-of-legends/launchhelper.sh
+  exe: /home/gabri/Games/league-of-legends/drive_c/Riot Games/League of Legends/LeagueClient.exe
+  prefix: ~/Games/league-of-legends
+system: {}
+wine:
+  overrides:
+    DXVK_LOG_LEVEL: none
+    STAGING_SHARED_MEMORY: '1'
+    WINE_LARGE_ADDRESS_AWARE: '1'
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/gabri/Games/league-of-legends/
+  version: lutris-ge-lol-7.0-1-x86_64

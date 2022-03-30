@@ -1046,6 +1046,7 @@ Uuid={9db3c77f-dd44-4d02-9b08-68b49002de22}
 [General]
 BrowserApplication[$d]
 ColorScheme[$d]
+ColorSchemeHash[$d]
 Name[$d]
 TerminalApplication[$d]
 TerminalService[$d]

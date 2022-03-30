@@ -1,0 +1,18 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="CallTextSpeed" type="float">1</pref>
+	<pref name="FirstStart" type="int">1</pref>
+	<pref name="FirstStartIgnorance" type="int">1</pref>
+	<pref name="MusicVolume" type="float">0.8</pref>
+	<pref name="STORY_COMPLETE" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">720</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1280</pref>
+	<pref name="SoundVolume" type="float">0.8</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="VoiceOverVolume" type="float">1</pref>
+	<pref name="WindowToggle" type="int">0</pref>
+	<pref name="unity.cloud_userid" type="string">ODExMWNiNDRhNzkzMzQwNThiOGMxYmI3NTAyYzE2Zjc=</pref>
+	<pref name="unity.player_session_count" type="string">MQ==</pref>
+	<pref name="unity.player_sessionid" type="string">OTU3Nzg1Mjg4OTU2NDM1NTE=</pref>
+</unity_prefs>

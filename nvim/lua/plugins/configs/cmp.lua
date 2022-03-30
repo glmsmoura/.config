@@ -6,7 +6,6 @@ end
 
 vim.opt.completeopt = "menuone,noselect"
 
--- nvim-cmp setup
 cmp.setup {
    snippet = {
       expand = function(args)
@@ -15,12 +14,8 @@ cmp.setup {
    },
    formatting = {
       format = function(entry, vim_item)
-         -- load lspkind icons
-         vim_item.kind = string.format(
-            "%s %s",
-            require("plugins.configs.lspkind_icons").icons[vim_item.kind],
-            vim_item.kind
-         )
+         local icons = require "plugins.configs.lspkind_icons"
+         vim_item.kind = string.format("%s %s", icons[vim_item.kind], vim_item.kind)
 
          vim_item.menu = ({
             nvim_lsp = "[LSP]",
@@ -43,8 +38,8 @@ cmp.setup {
          select = true,
       },
       ["<Tab>"] = function(fallback)
-         if vim.fn.pumvisible() == 1 then
-            vim.fn.feedkeys(vim.api.nvim_replace_termcodes("<C-n>", true, true, true), "n")
+         if cmp.visible() then
+            cmp.select_next_item()
          elseif require("luasnip").expand_or_jumpable() then
             vim.fn.feedkeys(vim.api.nvim_replace_termcodes("<Plug>luasnip-expand-or-jump", true, true, true), "")
          else
@@ -52,8 +47,8 @@ cmp.setup {
          end
       end,
       ["<S-Tab>"] = function(fallback)
-         if vim.fn.pumvisible() == 1 then
-            vim.fn.feedkeys(vim.api.nvim_replace_termcodes("<C-p>", true, true, true), "n")
+         if cmp.visible() then
+            cmp.select_prev_item()
          elseif require("luasnip").jumpable(-1) then
             vim.fn.feedkeys(vim.api.nvim_replace_termcodes("<Plug>luasnip-jump-prev", true, true, true), "")
          else
@@ -66,5 +61,6 @@ cmp.setup {
       { name = "luasnip" },
       { name = "buffer" },
       { name = "nvim_lua" },
+      { name = "path" },
    },
 }
