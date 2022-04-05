@@ -16,5 +16,9 @@ Icon=drive-harddisk
 LastNameSeen=198.3 GiB Internal Drive (nvme0n1p3)
 LastSeenMounted=true
 
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+Icon=drive-removable-media-usb
+LastNameSeen=ARCH_202203
+
 [General]
 AutomountEnabled=true

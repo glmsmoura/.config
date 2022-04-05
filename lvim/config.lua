@@ -146,6 +146,9 @@ lvim.builtin.treesitter.highlight.enabled = true
     -- },
 -- }
 
+   lvim.plugins = {
+     {"nathom/filetype.nvim"}
+   }
 
   --Active Transparency
 lvim.transparent_window = true
