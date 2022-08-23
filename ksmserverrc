@@ -8,9 +8,14 @@ confirmLogout=false
 count=0
 
 [Session: saved at previous logout]
-clientId1=1061726368000164865024800000009960006
-count=1
+clientId1=1061726368000165348731800000012330006
+clientId2=1061726368000165351508000000012330167
+count=2
 program1=pulseaudio
+program2=/usr/bin/flameshot
 restartCommand1=
+restartCommand2=/usr/bin/flameshot,-session,1061726368000165351508000000012330167_1653521984_46162
 restartStyleHint1=0
+restartStyleHint2=0
 userId1=gabri
+userId2=gabri
